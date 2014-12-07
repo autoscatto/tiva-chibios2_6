@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccG5O5Cl.s 			page 1
+ARM GAS  /tmp/ccEWiIlW.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
   53              		.thumb
   54              		.thumb_func
   55              		.type	SVCallVector, %function
-ARM GAS  /tmp/ccG5O5Cl.s 			page 2
+ARM GAS  /tmp/ccEWiIlW.s 			page 2
 
 
   56              	SVCallVector:
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  107              		.loc 1 123 0
  108 0002 094B     		ldr	r3, .L4
  109              		.loc 1 124 0
-ARM GAS  /tmp/ccG5O5Cl.s 			page 3
+ARM GAS  /tmp/ccEWiIlW.s 			page 3
 
 
  110 0004 094A     		ldr	r2, .L4+4
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  164              	.LBE3:
  165              		.loc 1 153 0
  166 0006 0F4B     		ldr	r3, .L11
-ARM GAS  /tmp/ccG5O5Cl.s 			page 4
+ARM GAS  /tmp/ccEWiIlW.s 			page 4
 
 
  167 0008 5B68     		ldr	r3, [r3, #4]
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  221              		.cfi_endproc
  222              	.LFE121:
  223              		.size	_port_irq_epilogue, .-_port_irq_epilogue
-ARM GAS  /tmp/ccG5O5Cl.s 			page 5
+ARM GAS  /tmp/ccEWiIlW.s 			page 5
 
 
  224 0054 AFF30080 		.section	.text.SysTickVector,"ax",%progbits
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  275              	_port_switch:
  276              	.LFB123:
  277              		.loc 1 229 0
-ARM GAS  /tmp/ccG5O5Cl.s 			page 6
+ARM GAS  /tmp/ccEWiIlW.s 			page 6
 
 
  278              		.cfi_startproc
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  332              	.LFE124:
  333              		.size	_port_thread_start, .-_port_thread_start
  334              		.text
-ARM GAS  /tmp/ccG5O5Cl.s 			page 7
+ARM GAS  /tmp/ccEWiIlW.s 			page 7
 
 
  335              	.Letext0:
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  389 0056 B8020000 		.4byte	.LASF4
  390 005a 04       		.uleb128 0x4
  391 005b 59000000 		.4byte	.LASF6
-ARM GAS  /tmp/ccG5O5Cl.s 			page 8
+ARM GAS  /tmp/ccEWiIlW.s 			page 8
 
 
  392 005f 02       		.byte	0x2
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  446 00cb 2F020000 		.4byte	.LASF18
  447 00cf 04       		.byte	0x4
  448 00d0 2E       		.byte	0x2e
-ARM GAS  /tmp/ccG5O5Cl.s 			page 9
+ARM GAS  /tmp/ccEWiIlW.s 			page 9
 
 
  449 00d1 8C000000 		.4byte	0x8c
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  503 0143 4C030000 		.4byte	0x34c
  504 0147 0C       		.byte	0xc
  505 0148 06       		.uleb128 0x6
-ARM GAS  /tmp/ccG5O5Cl.s 			page 10
+ARM GAS  /tmp/ccEWiIlW.s 			page 10
 
 
  506 0149 BF000000 		.4byte	.LASF28
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  560 01b5 39010000 		.4byte	.LASF36
  561 01b9 06       		.byte	0x6
  562 01ba BF       		.byte	0xbf
-ARM GAS  /tmp/ccG5O5Cl.s 			page 11
+ARM GAS  /tmp/ccEWiIlW.s 			page 11
 
 
  563 01bb 24020000 		.4byte	0x224
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  617 0224 04       		.uleb128 0x4
  618 0225 10020000 		.4byte	.LASF42
  619 0229 05       		.byte	0x5
-ARM GAS  /tmp/ccG5O5Cl.s 			page 12
+ARM GAS  /tmp/ccEWiIlW.s 			page 12
 
 
  620 022a 66       		.byte	0x66
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  674 0290 5B020000 		.4byte	0x25b
  675 0294 08       		.byte	0x8
  676 0295 07       		.uleb128 0x7
-ARM GAS  /tmp/ccG5O5Cl.s 			page 13
+ARM GAS  /tmp/ccEWiIlW.s 			page 13
 
 
  677 0296 723300   		.ascii	"r3\000"
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  731 0301 0D       		.uleb128 0xd
  732 0302 723700   		.ascii	"r7\000"
  733 0305 07       		.byte	0x7
-ARM GAS  /tmp/ccG5O5Cl.s 			page 14
+ARM GAS  /tmp/ccEWiIlW.s 			page 14
 
 
  734 0306 2201     		.2byte	0x122
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  788 0374 56020000 		.4byte	0x256
  789 0378 08       		.uleb128 0x8
  790 0379 8C       		.byte	0x8c
-ARM GAS  /tmp/ccG5O5Cl.s 			page 15
+ARM GAS  /tmp/ccEWiIlW.s 			page 15
 
 
  791 037a 08       		.byte	0x8
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  845 03e6 92       		.byte	0x92
  846 03e7 6D030000 		.4byte	0x36d
  847 03eb 28       		.byte	0x28
-ARM GAS  /tmp/ccG5O5Cl.s 			page 16
+ARM GAS  /tmp/ccEWiIlW.s 			page 16
 
 
  848 03ec 06       		.uleb128 0x6
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  902 0458 07       		.uleb128 0x7
  903 0459 53415200 		.ascii	"SAR\000"
  904 045d 08       		.byte	0x8
-ARM GAS  /tmp/ccG5O5Cl.s 			page 17
+ARM GAS  /tmp/ccEWiIlW.s 			page 17
 
 
  905 045e 9C       		.byte	0x9c
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  959 04d6 04       		.uleb128 0x4
  960 04d7 23000000 		.4byte	.LASF67
  961 04db 08       		.byte	0x8
-ARM GAS  /tmp/ccG5O5Cl.s 			page 18
+ARM GAS  /tmp/ccEWiIlW.s 			page 18
 
 
  962 04dc 9F       		.byte	0x9f
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1016 0548 0A       		.byte	0xa
  1017 0549 2C       		.byte	0x2c
  1018 054a 73050000 		.4byte	0x573
-ARM GAS  /tmp/ccG5O5Cl.s 			page 19
+ARM GAS  /tmp/ccEWiIlW.s 			page 19
 
 
  1019 054e 06       		.uleb128 0x6
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1073 05ba 04       		.byte	0x4
  1074 05bb BF050000 		.4byte	0x5bf
  1075 05bf 12       		.uleb128 0x12
-ARM GAS  /tmp/ccG5O5Cl.s 			page 20
+ARM GAS  /tmp/ccEWiIlW.s 			page 20
 
 
  1076 05c0 C4050000 		.4byte	0x5c4
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1130 0638 78       		.byte	0x78
  1131 0639 00000000 		.4byte	.LFB120
  1132 063d 30000000 		.4byte	.LFE120-.LFB120
-ARM GAS  /tmp/ccG5O5Cl.s 			page 21
+ARM GAS  /tmp/ccEWiIlW.s 			page 21
 
 
  1133 0641 01       		.uleb128 0x1
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1187 0695 96       		.byte	0x96
  1188 0696 00000000 		.4byte	.LFB121
  1189 069a 54000000 		.4byte	.LFE121-.LFB121
-ARM GAS  /tmp/ccG5O5Cl.s 			page 22
+ARM GAS  /tmp/ccEWiIlW.s 			page 22
 
 
  1190 069e 01       		.uleb128 0x1
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1244 071c 33       		.byte	0x33
  1245 071d A2000000 		.4byte	0xa2
  1246 0721 01       		.uleb128 0x1
-ARM GAS  /tmp/ccG5O5Cl.s 			page 23
+ARM GAS  /tmp/ccEWiIlW.s 			page 23
 
 
  1247 0722 53       		.byte	0x53
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1301 0797 16       		.uleb128 0x16
  1302 0798 00000000 		.4byte	.LBB8
  1303 079c 06000000 		.4byte	.LBE8-.LBB8
-ARM GAS  /tmp/ccG5O5Cl.s 			page 24
+ARM GAS  /tmp/ccEWiIlW.s 			page 24
 
 
  1304 07a0 17       		.uleb128 0x17
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1358 000c 17       		.uleb128 0x17
  1359 000d 11       		.uleb128 0x11
  1360 000e 01       		.uleb128 0x1
-ARM GAS  /tmp/ccG5O5Cl.s 			page 25
+ARM GAS  /tmp/ccEWiIlW.s 			page 25
 
 
  1361 000f 10       		.uleb128 0x10
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1415 0045 06       		.uleb128 0x6
  1416 0046 0D       		.uleb128 0xd
  1417 0047 00       		.byte	0
-ARM GAS  /tmp/ccG5O5Cl.s 			page 26
+ARM GAS  /tmp/ccEWiIlW.s 			page 26
 
 
  1418 0048 03       		.uleb128 0x3
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1472 007e 00       		.byte	0
  1473 007f 00       		.byte	0
  1474 0080 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccG5O5Cl.s 			page 27
+ARM GAS  /tmp/ccEWiIlW.s 			page 27
 
 
  1475 0081 0F       		.uleb128 0xf
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1529 00b7 10       		.uleb128 0x10
  1530 00b8 17       		.uleb128 0x17
  1531 00b9 01       		.byte	0x1
-ARM GAS  /tmp/ccG5O5Cl.s 			page 28
+ARM GAS  /tmp/ccEWiIlW.s 			page 28
 
 
  1532 00ba 0B       		.uleb128 0xb
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1586 00f1 00       		.byte	0
  1587 00f2 14       		.uleb128 0x14
  1588 00f3 898201   		.uleb128 0x4109
-ARM GAS  /tmp/ccG5O5Cl.s 			page 29
+ARM GAS  /tmp/ccEWiIlW.s 			page 29
 
 
  1589 00f6 00       		.byte	0
@@ -1738,7 +1738,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1643 012e 13       		.uleb128 0x13
  1644 012f 00       		.byte	0
  1645 0130 00       		.byte	0
-ARM GAS  /tmp/ccG5O5Cl.s 			page 30
+ARM GAS  /tmp/ccEWiIlW.s 			page 30
 
 
  1646 0131 19       		.uleb128 0x19
@@ -1798,7 +1798,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1700 0170 18       		.uleb128 0x18
  1701 0171 00       		.byte	0
  1702 0172 00       		.byte	0
-ARM GAS  /tmp/ccG5O5Cl.s 			page 31
+ARM GAS  /tmp/ccEWiIlW.s 			page 31
 
 
  1703 0173 1E       		.uleb128 0x1e
@@ -1858,7 +1858,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1757 01a9 3F       		.uleb128 0x3f
  1758 01aa 19       		.uleb128 0x19
  1759 01ab 03       		.uleb128 0x3
-ARM GAS  /tmp/ccG5O5Cl.s 			page 32
+ARM GAS  /tmp/ccEWiIlW.s 			page 32
 
 
  1760 01ac 0E       		.uleb128 0xe
@@ -1918,7 +1918,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1814 0049 00000000 		.4byte	0
  1815              		.section	.debug_aranges,"",%progbits
  1816 0000 4C000000 		.4byte	0x4c
-ARM GAS  /tmp/ccG5O5Cl.s 			page 33
+ARM GAS  /tmp/ccEWiIlW.s 			page 33
 
 
  1817 0004 0200     		.2byte	0x2
@@ -1978,7 +1978,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1864              	.LASF79:
  1865 0012 7264796D 		.ascii	"rdymsg\000"
  1865      736700
-ARM GAS  /tmp/ccG5O5Cl.s 			page 34
+ARM GAS  /tmp/ccEWiIlW.s 			page 34
 
 
  1866              	.LASF5:
@@ -2038,7 +2038,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1893      00
  1894              	.LASF91:
  1895 00ac 5F706F72 		.ascii	"_port_thread_start\000"
-ARM GAS  /tmp/ccG5O5Cl.s 			page 35
+ARM GAS  /tmp/ccEWiIlW.s 			page 35
 
 
  1895      745F7468 
@@ -2098,7 +2098,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1921      00
  1922              	.LASF84:
  1923 0149 5F706F72 		.ascii	"_port_switch_from_isr\000"
-ARM GAS  /tmp/ccG5O5Cl.s 			page 36
+ARM GAS  /tmp/ccEWiIlW.s 			page 36
 
 
  1923      745F7377 
@@ -2158,7 +2158,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1950 01fd 43465352 		.ascii	"CFSR\000"
  1950      00
  1951              	.LASF29:
-ARM GAS  /tmp/ccG5O5Cl.s 			page 37
+ARM GAS  /tmp/ccEWiIlW.s 			page 37
 
 
  1952 0202 705F6F6C 		.ascii	"p_older\000"
@@ -2218,7 +2218,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  1982      7420696E 
  1982      7400
  1983              	.LASF31:
-ARM GAS  /tmp/ccG5O5Cl.s 			page 38
+ARM GAS  /tmp/ccEWiIlW.s 			page 38
 
 
  1984 028e 705F7374 		.ascii	"p_state\000"
@@ -2278,7 +2278,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  2014      2E2F6F73 
  2014      2F706F72 
  2014      74732F47 
-ARM GAS  /tmp/ccG5O5Cl.s 			page 39
+ARM GAS  /tmp/ccEWiIlW.s 			page 39
 
 
  2014      43432F41 
@@ -2338,7 +2338,7 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  2037      666E6F2D 
  2037      636F6D6D 
  2038              	.LASF74:
-ARM GAS  /tmp/ccG5O5Cl.s 			page 40
+ARM GAS  /tmp/ccEWiIlW.s 			page 40
 
 
  2039 0443 52656164 		.ascii	"ReadyList\000"
@@ -2383,30 +2383,30 @@ ARM GAS  /tmp/ccG5O5Cl.s 			page 1
  2063      6974696E 
  2063      6700
  2064              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/ccG5O5Cl.s 			page 41
+ARM GAS  /tmp/ccEWiIlW.s 			page 41
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chcore_v7m.c
-     /tmp/ccG5O5Cl.s:19     .text._port_switch_from_isr:0000000000000000 $t
-     /tmp/ccG5O5Cl.s:25     .text._port_switch_from_isr:0000000000000000 _port_switch_from_isr
-     /tmp/ccG5O5Cl.s:38     .text._port_switch_from_isr:0000000000000004 _port_exit_from_isr
-     /tmp/ccG5O5Cl.s:50     .text.SVCallVector:0000000000000000 $t
-     /tmp/ccG5O5Cl.s:56     .text.SVCallVector:0000000000000000 SVCallVector
-     /tmp/ccG5O5Cl.s:91     .text._port_init:0000000000000000 $t
-     /tmp/ccG5O5Cl.s:97     .text._port_init:0000000000000000 _port_init
-     /tmp/ccG5O5Cl.s:138    .text._port_init:0000000000000028 $d
-     /tmp/ccG5O5Cl.s:144    .text._port_irq_epilogue:0000000000000000 $t
-     /tmp/ccG5O5Cl.s:150    .text._port_irq_epilogue:0000000000000000 _port_irq_epilogue
-     /tmp/ccG5O5Cl.s:216    .text._port_irq_epilogue:0000000000000044 $d
-     /tmp/ccG5O5Cl.s:225    .text.SysTickVector:0000000000000000 $t
-     /tmp/ccG5O5Cl.s:231    .text.SysTickVector:0000000000000000 SysTickVector
-     /tmp/ccG5O5Cl.s:269    .text._port_switch:0000000000000000 $t
-     /tmp/ccG5O5Cl.s:275    .text._port_switch:0000000000000000 _port_switch
-     /tmp/ccG5O5Cl.s:302    .text._port_thread_start:0000000000000000 $t
-     /tmp/ccG5O5Cl.s:308    .text._port_thread_start:0000000000000000 _port_thread_start
+     /tmp/ccEWiIlW.s:19     .text._port_switch_from_isr:0000000000000000 $t
+     /tmp/ccEWiIlW.s:25     .text._port_switch_from_isr:0000000000000000 _port_switch_from_isr
+     /tmp/ccEWiIlW.s:38     .text._port_switch_from_isr:0000000000000004 _port_exit_from_isr
+     /tmp/ccEWiIlW.s:50     .text.SVCallVector:0000000000000000 $t
+     /tmp/ccEWiIlW.s:56     .text.SVCallVector:0000000000000000 SVCallVector
+     /tmp/ccEWiIlW.s:91     .text._port_init:0000000000000000 $t
+     /tmp/ccEWiIlW.s:97     .text._port_init:0000000000000000 _port_init
+     /tmp/ccEWiIlW.s:138    .text._port_init:0000000000000028 $d
+     /tmp/ccEWiIlW.s:144    .text._port_irq_epilogue:0000000000000000 $t
+     /tmp/ccEWiIlW.s:150    .text._port_irq_epilogue:0000000000000000 _port_irq_epilogue
+     /tmp/ccEWiIlW.s:216    .text._port_irq_epilogue:0000000000000044 $d
+     /tmp/ccEWiIlW.s:225    .text.SysTickVector:0000000000000000 $t
+     /tmp/ccEWiIlW.s:231    .text.SysTickVector:0000000000000000 SysTickVector
+     /tmp/ccEWiIlW.s:269    .text._port_switch:0000000000000000 $t
+     /tmp/ccEWiIlW.s:275    .text._port_switch:0000000000000000 _port_switch
+     /tmp/ccEWiIlW.s:302    .text._port_thread_start:0000000000000000 $t
+     /tmp/ccEWiIlW.s:308    .text._port_thread_start:0000000000000000 _port_thread_start
                      .debug_frame:0000000000000010 $d
-     /tmp/ccG5O5Cl.s:224    .text._port_irq_epilogue:0000000000000054 $t
+     /tmp/ccEWiIlW.s:224    .text._port_irq_epilogue:0000000000000054 $t
 
 UNDEFINED SYMBOLS
 chSchDoReschedule

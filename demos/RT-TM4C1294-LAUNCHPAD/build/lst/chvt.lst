@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccWjaOFx.s 			page 1
+ARM GAS  /tmp/ccruMGa4.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
   54      AFF30080 
   55              		.align	2
   56              		.p2align 4,,15
-ARM GAS  /tmp/ccWjaOFx.s 			page 2
+ARM GAS  /tmp/ccruMGa4.s 			page 2
 
 
   57              		.global	chVTSetI
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  111              		.loc 1 93 0
  112 0026 8160     		str	r1, [r0, #8]
  113              		.loc 1 94 0
-ARM GAS  /tmp/ccWjaOFx.s 			page 3
+ARM GAS  /tmp/ccruMGa4.s 			page 3
 
 
  114 0028 02D0     		beq	.L4
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  167 0018 5A60     		str	r2, [r3, #4]
  168              		.loc 1 118 0
  169 001a C160     		str	r1, [r0, #12]
-ARM GAS  /tmp/ccWjaOFx.s 			page 4
+ARM GAS  /tmp/ccruMGa4.s 			page 4
 
 
  170 001c 7047     		bx	lr
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  219 003a 03       		.uleb128 0x3
  220 003b 01       		.byte	0x1
  221 003c 08       		.byte	0x8
-ARM GAS  /tmp/ccWjaOFx.s 			page 5
+ARM GAS  /tmp/ccruMGa4.s 			page 5
 
 
  222 003d B0000000 		.4byte	.LASF2
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  276 00a9 03       		.uleb128 0x3
  277 00aa 04       		.byte	0x4
  278 00ab 07       		.byte	0x7
-ARM GAS  /tmp/ccWjaOFx.s 			page 6
+ARM GAS  /tmp/ccruMGa4.s 			page 6
 
 
  279 00ac B0010000 		.4byte	.LASF15
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  333 011b 6C       		.byte	0x6c
  334 011c B0000000 		.4byte	0xb0
  335 0120 10       		.byte	0x10
-ARM GAS  /tmp/ccWjaOFx.s 			page 7
+ARM GAS  /tmp/ccruMGa4.s 			page 7
 
 
  336 0121 00       		.byte	0
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  390 018a 00000000 		.4byte	.LASF28
  391 018e 01       		.byte	0x1
  392 018f 4C       		.byte	0x4c
-ARM GAS  /tmp/ccWjaOFx.s 			page 8
+ARM GAS  /tmp/ccruMGa4.s 			page 8
 
 
  393 0190 00000000 		.4byte	.LFB119
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  447 0206 00       		.byte	0
  448 0207 14       		.uleb128 0x14
  449 0208 96000000 		.4byte	.LASF30
-ARM GAS  /tmp/ccWjaOFx.s 			page 9
+ARM GAS  /tmp/ccruMGa4.s 			page 9
 
 
  450 020c 06       		.byte	0x6
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  504 0026 0E       		.uleb128 0xe
  505 0027 00       		.byte	0
  506 0028 00       		.byte	0
-ARM GAS  /tmp/ccWjaOFx.s 			page 10
+ARM GAS  /tmp/ccruMGa4.s 			page 10
 
 
  507 0029 04       		.uleb128 0x4
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  561 005f 3B       		.uleb128 0x3b
  562 0060 0B       		.uleb128 0xb
  563 0061 01       		.uleb128 0x1
-ARM GAS  /tmp/ccWjaOFx.s 			page 11
+ARM GAS  /tmp/ccruMGa4.s 			page 11
 
 
  564 0062 13       		.uleb128 0x13
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  618 0098 06       		.uleb128 0x6
  619 0099 40       		.uleb128 0x40
  620 009a 18       		.uleb128 0x18
-ARM GAS  /tmp/ccWjaOFx.s 			page 12
+ARM GAS  /tmp/ccruMGa4.s 			page 12
 
 
  621 009b 9742     		.uleb128 0x2117
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  675 00d3 13       		.uleb128 0x13
  676 00d4 02       		.uleb128 0x2
  677 00d5 17       		.uleb128 0x17
-ARM GAS  /tmp/ccWjaOFx.s 			page 13
+ARM GAS  /tmp/ccruMGa4.s 			page 13
 
 
  678 00d6 00       		.byte	0
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  732 010c 3B       		.uleb128 0x3b
  733 010d 05       		.uleb128 0x5
  734 010e 49       		.uleb128 0x49
-ARM GAS  /tmp/ccWjaOFx.s 			page 14
+ARM GAS  /tmp/ccruMGa4.s 			page 14
 
 
  735 010f 13       		.uleb128 0x13
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  789 0045 00000000 		.4byte	0
  790              	.LLST2:
  791 0049 06000000 		.4byte	.LVL1
-ARM GAS  /tmp/ccWjaOFx.s 			page 15
+ARM GAS  /tmp/ccruMGa4.s 			page 15
 
 
  792 004d 12000000 		.4byte	.LVL2
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  836              	.LASF4:
  837 001d 73686F72 		.ascii	"short unsigned int\000"
  837      7420756E 
-ARM GAS  /tmp/ccWjaOFx.s 			page 16
+ARM GAS  /tmp/ccruMGa4.s 			page 16
 
 
  837      7369676E 
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  859              	.LASF25:
  860 00df 63686172 		.ascii	"char\000"
  860      00
-ARM GAS  /tmp/ccWjaOFx.s 			page 17
+ARM GAS  /tmp/ccruMGa4.s 			page 17
 
 
  861              	.LASF32:
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  883      6E6300
  884              	.LASF22:
  885 01f4 76745F70 		.ascii	"vt_par\000"
-ARM GAS  /tmp/ccWjaOFx.s 			page 18
+ARM GAS  /tmp/ccruMGa4.s 			page 18
 
 
  885      617200
@@ -1061,25 +1061,25 @@ ARM GAS  /tmp/ccWjaOFx.s 			page 1
  905      7369676E 
  905      65642069 
  906              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/ccWjaOFx.s 			page 19
+ARM GAS  /tmp/ccruMGa4.s 			page 19
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chvt.c
-     /tmp/ccWjaOFx.s:19     .text._vt_init:0000000000000000 $t
-     /tmp/ccWjaOFx.s:25     .text._vt_init:0000000000000000 _vt_init
-     /tmp/ccWjaOFx.s:50     .text._vt_init:0000000000000014 $d
-     /tmp/ccWjaOFx.s:55     .text.chVTSetI:0000000000000000 $t
-     /tmp/ccWjaOFx.s:61     .text.chVTSetI:0000000000000000 chVTSetI
-     /tmp/ccWjaOFx.s:129    .text.chVTSetI:0000000000000034 $d
-     /tmp/ccWjaOFx.s:134    .text.chVTResetI:0000000000000000 $t
-     /tmp/ccWjaOFx.s:140    .text.chVTResetI:0000000000000000 chVTResetI
-     /tmp/ccWjaOFx.s:174    .text.chVTResetI:0000000000000020 $d
-     /tmp/ccWjaOFx.s:184    .bss.vtlist:0000000000000000 vtlist
-     /tmp/ccWjaOFx.s:180    .bss.vtlist:0000000000000000 $d
+     /tmp/ccruMGa4.s:19     .text._vt_init:0000000000000000 $t
+     /tmp/ccruMGa4.s:25     .text._vt_init:0000000000000000 _vt_init
+     /tmp/ccruMGa4.s:50     .text._vt_init:0000000000000014 $d
+     /tmp/ccruMGa4.s:55     .text.chVTSetI:0000000000000000 $t
+     /tmp/ccruMGa4.s:61     .text.chVTSetI:0000000000000000 chVTSetI
+     /tmp/ccruMGa4.s:129    .text.chVTSetI:0000000000000034 $d
+     /tmp/ccruMGa4.s:134    .text.chVTResetI:0000000000000000 $t
+     /tmp/ccruMGa4.s:140    .text.chVTResetI:0000000000000000 chVTResetI
+     /tmp/ccruMGa4.s:174    .text.chVTResetI:0000000000000020 $d
+     /tmp/ccruMGa4.s:184    .bss.vtlist:0000000000000000 vtlist
+     /tmp/ccruMGa4.s:180    .bss.vtlist:0000000000000000 $d
                      .debug_frame:0000000000000010 $d
-     /tmp/ccWjaOFx.s:54     .text._vt_init:0000000000000018 $t
-     /tmp/ccWjaOFx.s:133    .text.chVTSetI:0000000000000038 $t
-     /tmp/ccWjaOFx.s:179    .text.chVTResetI:0000000000000024 $t
+     /tmp/ccruMGa4.s:54     .text._vt_init:0000000000000018 $t
+     /tmp/ccruMGa4.s:133    .text.chVTSetI:0000000000000038 $t
+     /tmp/ccruMGa4.s:179    .text.chVTResetI:0000000000000024 $t
 
 NO UNDEFINED SYMBOLS

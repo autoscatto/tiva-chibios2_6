@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccC3veKt.s 			page 1
+ARM GAS  /tmp/ccL6BMt9.s 			page 1
 
 
    1              		.syntax unified
@@ -28,7 +28,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
   25              	main:
   26              	.LFB118:
   27              		.file 1 "main.c"
-  28              		.loc 1 6 0
+  28              		.loc 1 5 0
   29              		.cfi_startproc
   30              		@ Volatile: function does not return.
   31              		@ args = 0, pretend = 0, frame = 0
@@ -37,20 +37,20 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
   34              		.cfi_def_cfa_offset 8
   35              		.cfi_offset 3, -8
   36              		.cfi_offset 14, -4
-  37              		.loc 1 9 0
+  37              		.loc 1 8 0
   38 0002 FFF7FEFF 		bl	halInit
   39              	.LVL0:
-  40              		.loc 1 10 0
+  40              		.loc 1 9 0
   41 0006 FFF7FEFF 		bl	chSysInit
   42              	.LVL1:
-  43              		.loc 1 13 0
+  43              		.loc 1 12 0
   44 000a 064C     		ldr	r4, .L4
   45              	.L2:
-  46              		.loc 1 13 0 is_stmt 0 discriminator 1
+  46              		.loc 1 12 0 is_stmt 0 discriminator 1
   47 000c D4F8FC33 		ldr	r3, [r4, #1020]
   48 0010 83F00103 		eor	r3, r3, #1
   49 0014 C4F8FC33 		str	r3, [r4, #1020]
-  50              		.loc 1 14 0 is_stmt 1 discriminator 1
+  50              		.loc 1 13 0 is_stmt 1 discriminator 1
   51 0018 42F21070 		movw	r0, #10000
   52 001c FFF7FEFF 		bl	chThdSleep
   53              	.LVL2:
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
   55              	.L5:
   56 0022 00BF     		.align	2
   57              	.L4:
-ARM GAS  /tmp/ccC3veKt.s 			page 2
+ARM GAS  /tmp/ccL6BMt9.s 			page 2
 
 
   58 0024 00D00540 		.word	1074122752
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  111 004f 04       		.uleb128 0x4
  112 0050 21000000 		.4byte	.LASF6
  113 0054 02       		.byte	0x2
-ARM GAS  /tmp/ccC3veKt.s 			page 3
+ARM GAS  /tmp/ccL6BMt9.s 			page 3
 
 
  114 0055 3F       		.byte	0x3f
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  168 00c4 A9000000 		.4byte	0xa9
  169 00c8 36       		.byte	0x36
  170 00c9 00       		.byte	0
-ARM GAS  /tmp/ccC3veKt.s 			page 4
+ARM GAS  /tmp/ccL6BMt9.s 			page 4
 
 
  171 00ca 09       		.uleb128 0x9
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  225 013f 0102     		.2byte	0x201
  226 0141 06030000 		.4byte	0x306
  227 0145 0F       		.uleb128 0xf
-ARM GAS  /tmp/ccC3veKt.s 			page 5
+ARM GAS  /tmp/ccL6BMt9.s 			page 5
 
 
  228 0146 0A010000 		.4byte	0x10a
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  282 01c1 B0000000 		.4byte	0xb0
  283 01c5 2004     		.2byte	0x420
  284 01c7 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccC3veKt.s 			page 6
+ARM GAS  /tmp/ccL6BMt9.s 			page 6
 
 
  285 01c8 51000000 		.4byte	.LASF19
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  339 0246 2D010000 		.4byte	.LASF23
  340 024a 05       		.byte	0x5
  341 024b 1C02     		.2byte	0x21c
-ARM GAS  /tmp/ccC3veKt.s 			page 7
+ARM GAS  /tmp/ccL6BMt9.s 			page 7
 
 
  342 024d B0000000 		.4byte	0xb0
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  396 02c9 B0000000 		.4byte	0xb0
  397 02cd 4405     		.2byte	0x544
  398 02cf 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccC3veKt.s 			page 8
+ARM GAS  /tmp/ccL6BMt9.s 			page 8
 
 
  399 02d0 3E000000 		.4byte	.LASF31
@@ -477,8 +477,8 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  452 0349 13       		.uleb128 0x13
  453 034a 32010000 		.4byte	.LASF42
  454 034e 01       		.byte	0x1
- 455 034f 06       		.byte	0x6
-ARM GAS  /tmp/ccC3veKt.s 			page 9
+ 455 034f 05       		.byte	0x5
+ARM GAS  /tmp/ccL6BMt9.s 			page 9
 
 
  456 0350 25000000 		.4byte	0x25
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  510 0006 0B       		.uleb128 0xb
  511 0007 03       		.uleb128 0x3
  512 0008 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccC3veKt.s 			page 10
+ARM GAS  /tmp/ccL6BMt9.s 			page 10
 
 
  513 0009 1B       		.uleb128 0x1b
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  567 003f 00       		.byte	0
  568 0040 49       		.uleb128 0x49
  569 0041 13       		.uleb128 0x13
-ARM GAS  /tmp/ccC3veKt.s 			page 11
+ARM GAS  /tmp/ccL6BMt9.s 			page 11
 
 
  570 0042 00       		.byte	0
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  624 0078 0B       		.uleb128 0xb
  625 0079 3B       		.uleb128 0x3b
  626 007a 05       		.uleb128 0x5
-ARM GAS  /tmp/ccC3veKt.s 			page 12
+ARM GAS  /tmp/ccL6BMt9.s 			page 12
 
 
  627 007b 49       		.uleb128 0x49
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  681 00b1 0B       		.uleb128 0xb
  682 00b2 3B       		.uleb128 0x3b
  683 00b3 05       		.uleb128 0x5
-ARM GAS  /tmp/ccC3veKt.s 			page 13
+ARM GAS  /tmp/ccL6BMt9.s 			page 13
 
 
  684 00b4 49       		.uleb128 0x49
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  738 00eb 00       		.byte	0
  739 00ec 14       		.uleb128 0x14
  740 00ed 898201   		.uleb128 0x4109
-ARM GAS  /tmp/ccC3veKt.s 			page 14
+ARM GAS  /tmp/ccL6BMt9.s 			page 14
 
 
  741 00f0 00       		.byte	0
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  795 012b 19       		.uleb128 0x19
  796 012c 3C       		.uleb128 0x3c
  797 012d 19       		.uleb128 0x19
-ARM GAS  /tmp/ccC3veKt.s 			page 15
+ARM GAS  /tmp/ccL6BMt9.s 			page 15
 
 
  798 012e 00       		.byte	0
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  847      73496E69 
  847      7400
  848              	.LASF33:
-ARM GAS  /tmp/ccC3veKt.s 			page 16
+ARM GAS  /tmp/ccL6BMt9.s 			page 16
 
 
  849 000a 4750494F 		.ascii	"GPIO_TypeDef\000"
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  872      6E697400 
  873              	.LASF10:
  874 00bf 6C6F6E67 		.ascii	"long long unsigned int\000"
-ARM GAS  /tmp/ccC3veKt.s 			page 17
+ARM GAS  /tmp/ccL6BMt9.s 			page 17
 
 
  874      206C6F6E 
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  902 0149 756E7369 		.ascii	"unsigned int\000"
  902      676E6564 
  902      20696E74 
-ARM GAS  /tmp/ccC3veKt.s 			page 18
+ARM GAS  /tmp/ccL6BMt9.s 			page 18
 
 
  902      00
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  927 0250 414D5345 		.ascii	"AMSEL\000"
  927      4C00
  928              	.LASF12:
-ARM GAS  /tmp/ccC3veKt.s 			page 19
+ARM GAS  /tmp/ccL6BMt9.s 			page 19
 
 
  929 0256 75696E74 		.ascii	"uint32_t\000"
@@ -1103,16 +1103,16 @@ ARM GAS  /tmp/ccC3veKt.s 			page 1
  939 0285 5F426F6F 		.ascii	"_Bool\000"
  939      6C00
  940              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/ccC3veKt.s 			page 20
+ARM GAS  /tmp/ccL6BMt9.s 			page 20
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 main.c
-     /tmp/ccC3veKt.s:19     .text.startup.main:0000000000000000 $t
-     /tmp/ccC3veKt.s:25     .text.startup.main:0000000000000000 main
-     /tmp/ccC3veKt.s:58     .text.startup.main:0000000000000024 $d
+     /tmp/ccL6BMt9.s:19     .text.startup.main:0000000000000000 $t
+     /tmp/ccL6BMt9.s:25     .text.startup.main:0000000000000000 main
+     /tmp/ccL6BMt9.s:58     .text.startup.main:0000000000000024 $d
                      .debug_frame:0000000000000010 $d
-     /tmp/ccC3veKt.s:62     .text.startup.main:0000000000000028 $t
+     /tmp/ccL6BMt9.s:62     .text.startup.main:0000000000000028 $t
 
 UNDEFINED SYMBOLS
 halInit

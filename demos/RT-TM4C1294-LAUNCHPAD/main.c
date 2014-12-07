@@ -1,6 +1,5 @@
 #include "ch.h"
 #include "hal.h"
-#include "test.h"
 
 
 int main(void) {

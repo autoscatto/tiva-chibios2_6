@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccJFYTXh.s 			page 1
+ARM GAS  /tmp/ccu2wo57.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
   55 0018 AFF30080 		.text
   55      AFF30080 
   56              	.Letext0:
-ARM GAS  /tmp/ccJFYTXh.s 			page 2
+ARM GAS  /tmp/ccu2wo57.s 			page 2
 
 
   57              		.file 2 "/usr/include/newlib/machine/_default_types.h"
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  111 0062 E4010000 		.4byte	.LASF7
  112 0066 02       		.byte	0x2
  113 0067 41       		.byte	0x41
-ARM GAS  /tmp/ccJFYTXh.s 			page 3
+ARM GAS  /tmp/ccu2wo57.s 			page 3
 
 
  114 0068 6C000000 		.4byte	0x6c
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  168 00d1 04       		.byte	0x4
  169 00d2 30       		.byte	0x30
  170 00d3 8C000000 		.4byte	0x8c
-ARM GAS  /tmp/ccJFYTXh.s 			page 4
+ARM GAS  /tmp/ccu2wo57.s 			page 4
 
 
  171 00d7 08       		.byte	0x8
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  225 0143 2C       		.byte	0x2c
  226 0144 06       		.uleb128 0x6
  227 0145 1B020000 		.4byte	.LASF22
-ARM GAS  /tmp/ccJFYTXh.s 			page 5
+ARM GAS  /tmp/ccu2wo57.s 			page 5
 
 
  228 0149 04       		.byte	0x4
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  282 01b4 5F       		.byte	0x5f
  283 01b5 51010000 		.4byte	0x151
  284 01b9 3801     		.2byte	0x138
-ARM GAS  /tmp/ccJFYTXh.s 			page 6
+ARM GAS  /tmp/ccu2wo57.s 			page 6
 
 
  285 01bb 09       		.uleb128 0x9
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  339 022f 0A       		.uleb128 0xa
  340 0230 55010000 		.4byte	.LASF47
  341 0234 01       		.byte	0x1
-ARM GAS  /tmp/ccJFYTXh.s 			page 7
+ARM GAS  /tmp/ccu2wo57.s 			page 7
 
 
  342 0235 44       		.byte	0x44
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  396 0002 01       		.byte	0x1
  397 0003 25       		.uleb128 0x25
  398 0004 0E       		.uleb128 0xe
-ARM GAS  /tmp/ccJFYTXh.s 			page 8
+ARM GAS  /tmp/ccu2wo57.s 			page 8
 
 
  399 0005 13       		.uleb128 0x13
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  453 003b 3A       		.uleb128 0x3a
  454 003c 0B       		.uleb128 0xb
  455 003d 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccJFYTXh.s 			page 9
+ARM GAS  /tmp/ccu2wo57.s 			page 9
 
 
  456 003e 0B       		.uleb128 0xb
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  510 0074 0B       		.uleb128 0xb
  511 0075 3B       		.uleb128 0x3b
  512 0076 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccJFYTXh.s 			page 10
+ARM GAS  /tmp/ccu2wo57.s 			page 10
 
 
  513 0077 49       		.uleb128 0x49
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  567 00b3 03       		.uleb128 0x3
  568 00b4 0E       		.uleb128 0xe
  569 00b5 3A       		.uleb128 0x3a
-ARM GAS  /tmp/ccJFYTXh.s 			page 11
+ARM GAS  /tmp/ccu2wo57.s 			page 11
 
 
  570 00b6 0B       		.uleb128 0xb
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  624 00ec 19       		.uleb128 0x19
  625 00ed 3C       		.uleb128 0x3c
  626 00ee 19       		.uleb128 0x19
-ARM GAS  /tmp/ccJFYTXh.s 			page 12
+ARM GAS  /tmp/ccu2wo57.s 			page 12
 
 
  627 00ef 01       		.uleb128 0x1
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  674      746100
  675              	.LASF16:
  676 0015 64617461 		.ascii	"data\000"
-ARM GAS  /tmp/ccJFYTXh.s 			page 13
+ARM GAS  /tmp/ccu2wo57.s 			page 13
 
 
  676      00
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  697      6F746F74 
  697      6970692F 
  697      6769742F 
-ARM GAS  /tmp/ccJFYTXh.s 			page 14
+ARM GAS  /tmp/ccu2wo57.s 			page 14
 
 
  698 0148 39342D4C 		.ascii	"94-LAUNCHPAD\000"
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  721              	.LASF7:
  722 01e4 5F5F7569 		.ascii	"__uint32_t\000"
  722      6E743332 
-ARM GAS  /tmp/ccJFYTXh.s 			page 15
+ARM GAS  /tmp/ccu2wo57.s 			page 15
 
 
  722      5F7400
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  754      6C6C645F 
  754      696E6974 
  754      00
-ARM GAS  /tmp/ccJFYTXh.s 			page 16
+ARM GAS  /tmp/ccu2wo57.s 			page 16
 
 
  755              	.LASF3:
@@ -931,16 +931,16 @@ ARM GAS  /tmp/ccJFYTXh.s 			page 1
  770 02b5 50504461 		.ascii	"PPData\000"
  770      746100
  771              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/ccJFYTXh.s 			page 17
+ARM GAS  /tmp/ccu2wo57.s 			page 17
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 hal.c
-     /tmp/ccJFYTXh.s:19     .text.halInit:0000000000000000 $t
-     /tmp/ccJFYTXh.s:25     .text.halInit:0000000000000000 halInit
-     /tmp/ccJFYTXh.s:51     .text.halInit:0000000000000014 $d
+     /tmp/ccu2wo57.s:19     .text.halInit:0000000000000000 $t
+     /tmp/ccu2wo57.s:25     .text.halInit:0000000000000000 halInit
+     /tmp/ccu2wo57.s:51     .text.halInit:0000000000000014 $d
                      .debug_frame:0000000000000010 $d
-     /tmp/ccJFYTXh.s:55     .text.halInit:0000000000000018 $t
+     /tmp/ccu2wo57.s:55     .text.halInit:0000000000000018 $t
 
 UNDEFINED SYMBOLS
 hal_lld_init
