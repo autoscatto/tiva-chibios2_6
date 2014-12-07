@@ -1486,23 +1486,19 @@ Discarded input sections
  .text          0x0000000000000000        0x0 build/obj/main.o
  .data          0x0000000000000000        0x0 build/obj/main.o
  .bss           0x0000000000000000        0x0 build/obj/main.o
- .text.Thread1  0x0000000000000000       0x20 build/obj/main.o
  .text.startup.main
                 0x0000000000000000       0x30 build/obj/main.o
- .bss.waThread1
-                0x0000000000000000       0xf0 build/obj/main.o
- .debug_info    0x0000000000000000      0x794 build/obj/main.o
- .debug_abbrev  0x0000000000000000      0x230 build/obj/main.o
- .debug_loc     0x0000000000000000       0x21 build/obj/main.o
+ .debug_info    0x0000000000000000      0x3b4 build/obj/main.o
+ .debug_abbrev  0x0000000000000000      0x149 build/obj/main.o
  .debug_aranges
-                0x0000000000000000       0x28 build/obj/main.o
- .debug_ranges  0x0000000000000000       0x18 build/obj/main.o
- .debug_line    0x0000000000000000      0x217 build/obj/main.o
- .debug_str     0x0000000000000000      0x428 build/obj/main.o
+                0x0000000000000000       0x20 build/obj/main.o
+ .debug_ranges  0x0000000000000000       0x10 build/obj/main.o
+ .debug_line    0x0000000000000000      0x1a1 build/obj/main.o
+ .debug_str     0x0000000000000000      0x28b build/obj/main.o
  .comment       0x0000000000000000       0x2c build/obj/main.o
  .ARM.attributes
                 0x0000000000000000       0x33 build/obj/main.o
- .debug_frame   0x0000000000000000       0x48 build/obj/main.o
+ .debug_frame   0x0000000000000000       0x2c build/obj/main.o
 
 Memory Configuration
 
@@ -2301,7 +2297,6 @@ chThdCreateI                                      build/obj/chthreads.o
                                                   build/obj/testthd.o
                                                   build/obj/chdynamic.o
 chThdCreateStatic                                 build/obj/chthreads.o
-                                                  build/obj/main.o
                                                   build/obj/testbmk.o
                                                   build/obj/testqueues.o
                                                   build/obj/testevt.o

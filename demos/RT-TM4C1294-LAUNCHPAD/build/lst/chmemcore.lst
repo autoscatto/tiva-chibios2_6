@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccjaDyGE.s 			page 1
+ARM GAS  /tmp/ccs33Llf.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
   55 0020 00000000 		.word	.LANCHOR0
   56 0024 00000000 		.word	.LANCHOR1
   57              		.cfi_endproc
-ARM GAS  /tmp/ccjaDyGE.s 			page 2
+ARM GAS  /tmp/ccs33Llf.s 			page 2
 
 
   58              	.LFE118:
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  111              	.LBB9:
  112              		.loc 1 96 0
  113 0022 0023     		movs	r3, #0
-ARM GAS  /tmp/ccjaDyGE.s 			page 3
+ARM GAS  /tmp/ccs33Llf.s 			page 3
 
 
  114              	.LVL6:
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  166              		.loc 1 119 0
  167 001a 0020     		movhi	r0, #0
  168              		.loc 1 123 0
-ARM GAS  /tmp/ccjaDyGE.s 			page 4
+ARM GAS  /tmp/ccs33Llf.s 			page 4
 
 
  169 001c 7047     		bx	lr
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  220              	nextmem:
  221 0000 00000000 		.space	4
  222              		.text
-ARM GAS  /tmp/ccjaDyGE.s 			page 5
+ARM GAS  /tmp/ccs33Llf.s 			page 5
 
 
  223              	.Letext0:
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  277 0066 18000000 		.4byte	.LASF7
  278 006a 03       		.byte	0x3
  279 006b 3F       		.byte	0x3f
-ARM GAS  /tmp/ccjaDyGE.s 			page 6
+ARM GAS  /tmp/ccs33Llf.s 			page 6
 
 
  280 006c 70000000 		.4byte	0x70
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  334 00d5 07       		.uleb128 0x7
  335 00d6 E4010000 		.4byte	.LASF27
  336 00da 01       		.byte	0x1
-ARM GAS  /tmp/ccjaDyGE.s 			page 7
+ARM GAS  /tmp/ccs33Llf.s 			page 7
 
 
  337 00db 70       		.byte	0x70
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  391 0151 2C000000 		.4byte	0x2c
  392 0155 00000000 		.4byte	.LLST0
  393 0159 09       		.uleb128 0x9
-ARM GAS  /tmp/ccjaDyGE.s 			page 8
+ARM GAS  /tmp/ccs33Llf.s 			page 8
 
 
  394 015a 7000     		.ascii	"p\000"
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  448 01d9 E5000000 		.4byte	0xe5
  449 01dd 8E000000 		.4byte	.LLST3
  450 01e1 17       		.uleb128 0x17
-ARM GAS  /tmp/ccjaDyGE.s 			page 9
+ARM GAS  /tmp/ccs33Llf.s 			page 9
 
 
  451 01e2 F0000000 		.4byte	0xf0
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  505 0005 13       		.uleb128 0x13
  506 0006 0B       		.uleb128 0xb
  507 0007 03       		.uleb128 0x3
-ARM GAS  /tmp/ccjaDyGE.s 			page 10
+ARM GAS  /tmp/ccs33Llf.s 			page 10
 
 
  508 0008 0E       		.uleb128 0xe
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  562 003e 0F       		.uleb128 0xf
  563 003f 00       		.byte	0
  564 0040 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccjaDyGE.s 			page 11
+ARM GAS  /tmp/ccs33Llf.s 			page 11
 
 
  565 0041 0B       		.uleb128 0xb
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  619 0077 01       		.byte	0x1
  620 0078 3F       		.uleb128 0x3f
  621 0079 19       		.uleb128 0x19
-ARM GAS  /tmp/ccjaDyGE.s 			page 12
+ARM GAS  /tmp/ccs33Llf.s 			page 12
 
 
  622 007a 03       		.uleb128 0x3
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  676 00b1 3F       		.uleb128 0x3f
  677 00b2 19       		.uleb128 0x19
  678 00b3 03       		.uleb128 0x3
-ARM GAS  /tmp/ccjaDyGE.s 			page 13
+ARM GAS  /tmp/ccs33Llf.s 			page 13
 
 
  679 00b4 0E       		.uleb128 0xe
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  733 00eb 3B       		.uleb128 0x3b
  734 00ec 0B       		.uleb128 0xb
  735 00ed 49       		.uleb128 0x49
-ARM GAS  /tmp/ccjaDyGE.s 			page 14
+ARM GAS  /tmp/ccs33Llf.s 			page 14
 
 
  736 00ee 13       		.uleb128 0x13
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  790 0124 11       		.uleb128 0x11
  791 0125 01       		.uleb128 0x1
  792 0126 12       		.uleb128 0x12
-ARM GAS  /tmp/ccjaDyGE.s 			page 15
+ARM GAS  /tmp/ccs33Llf.s 			page 15
 
 
  793 0127 06       		.uleb128 0x6
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  847 015f 02       		.uleb128 0x2
  848 0160 18       		.uleb128 0x18
  849 0161 00       		.byte	0
-ARM GAS  /tmp/ccjaDyGE.s 			page 16
+ARM GAS  /tmp/ccs33Llf.s 			page 16
 
 
  850 0162 00       		.byte	0
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  904 003d 14000000 		.4byte	.LVL3
  905 0041 0300     		.2byte	0x3
  906 0043 70       		.byte	0x70
-ARM GAS  /tmp/ccjaDyGE.s 			page 17
+ARM GAS  /tmp/ccs33Llf.s 			page 17
 
 
  907 0044 79       		.sleb128 -7
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  961 00bf 07       		.uleb128 0x7
  962 00c0 09       		.byte	0x9
  963 00c1 F8       		.byte	0xf8
-ARM GAS  /tmp/ccjaDyGE.s 			page 18
+ARM GAS  /tmp/ccs33Llf.s 			page 18
 
 
  964 00c2 1A       		.byte	0x1a
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  1008      7400
  1009              	.LASF31:
  1010 0022 6368436F 		.ascii	"chCoreStatus\000"
-ARM GAS  /tmp/ccjaDyGE.s 			page 19
+ARM GAS  /tmp/ccs33Llf.s 			page 19
 
 
  1010      72655374 
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  1026      6420696E 
  1026      7400
  1027              	.LASF6:
-ARM GAS  /tmp/ccjaDyGE.s 			page 20
+ARM GAS  /tmp/ccs33Llf.s 			page 20
 
 
  1028 0163 73686F72 		.ascii	"short unsigned int\000"
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  1054 01f1 5F5F6865 		.ascii	"__heap_end__\000"
  1054      61705F65 
  1054      6E645F5F 
-ARM GAS  /tmp/ccjaDyGE.s 			page 21
+ARM GAS  /tmp/ccs33Llf.s 			page 21
 
 
  1054      00
@@ -1231,32 +1231,32 @@ ARM GAS  /tmp/ccjaDyGE.s 			page 1
  1068 024e 5F426F6F 		.ascii	"_Bool\000"
  1068      6C00
  1069              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/ccjaDyGE.s 			page 22
+ARM GAS  /tmp/ccs33Llf.s 			page 22
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chmemcore.c
-     /tmp/ccjaDyGE.s:19     .text._core_init:0000000000000000 $t
-     /tmp/ccjaDyGE.s:25     .text._core_init:0000000000000000 _core_init
-     /tmp/ccjaDyGE.s:53     .text._core_init:0000000000000018 $d
-     /tmp/ccjaDyGE.s:61     .text.chCoreAlloc:0000000000000000 $t
-     /tmp/ccjaDyGE.s:67     .text.chCoreAlloc:0000000000000000 chCoreAlloc
-     /tmp/ccjaDyGE.s:125    .text.chCoreAlloc:000000000000002c $d
-     /tmp/ccjaDyGE.s:131    .text.chCoreAllocI:0000000000000000 $t
-     /tmp/ccjaDyGE.s:137    .text.chCoreAllocI:0000000000000000 chCoreAllocI
-     /tmp/ccjaDyGE.s:173    .text.chCoreAllocI:0000000000000020 $d
-     /tmp/ccjaDyGE.s:179    .text.chCoreStatus:0000000000000000 $t
-     /tmp/ccjaDyGE.s:185    .text.chCoreStatus:0000000000000000 chCoreStatus
-     /tmp/ccjaDyGE.s:203    .text.chCoreStatus:000000000000000c $d
-     /tmp/ccjaDyGE.s:209    .bss.endmem:0000000000000000 $d
-     /tmp/ccjaDyGE.s:213    .bss.endmem:0000000000000000 endmem
-     /tmp/ccjaDyGE.s:216    .bss.nextmem:0000000000000000 $d
-     /tmp/ccjaDyGE.s:220    .bss.nextmem:0000000000000000 nextmem
+     /tmp/ccs33Llf.s:19     .text._core_init:0000000000000000 $t
+     /tmp/ccs33Llf.s:25     .text._core_init:0000000000000000 _core_init
+     /tmp/ccs33Llf.s:53     .text._core_init:0000000000000018 $d
+     /tmp/ccs33Llf.s:61     .text.chCoreAlloc:0000000000000000 $t
+     /tmp/ccs33Llf.s:67     .text.chCoreAlloc:0000000000000000 chCoreAlloc
+     /tmp/ccs33Llf.s:125    .text.chCoreAlloc:000000000000002c $d
+     /tmp/ccs33Llf.s:131    .text.chCoreAllocI:0000000000000000 $t
+     /tmp/ccs33Llf.s:137    .text.chCoreAllocI:0000000000000000 chCoreAllocI
+     /tmp/ccs33Llf.s:173    .text.chCoreAllocI:0000000000000020 $d
+     /tmp/ccs33Llf.s:179    .text.chCoreStatus:0000000000000000 $t
+     /tmp/ccs33Llf.s:185    .text.chCoreStatus:0000000000000000 chCoreStatus
+     /tmp/ccs33Llf.s:203    .text.chCoreStatus:000000000000000c $d
+     /tmp/ccs33Llf.s:209    .bss.endmem:0000000000000000 $d
+     /tmp/ccs33Llf.s:213    .bss.endmem:0000000000000000 endmem
+     /tmp/ccs33Llf.s:216    .bss.nextmem:0000000000000000 $d
+     /tmp/ccs33Llf.s:220    .bss.nextmem:0000000000000000 nextmem
                      .debug_frame:0000000000000010 $d
-     /tmp/ccjaDyGE.s:60     .text._core_init:0000000000000028 $t
-     /tmp/ccjaDyGE.s:130    .text.chCoreAlloc:0000000000000034 $t
-     /tmp/ccjaDyGE.s:178    .text.chCoreAllocI:0000000000000028 $t
-     /tmp/ccjaDyGE.s:208    .text.chCoreStatus:0000000000000014 $t
+     /tmp/ccs33Llf.s:60     .text._core_init:0000000000000028 $t
+     /tmp/ccs33Llf.s:130    .text.chCoreAlloc:0000000000000034 $t
+     /tmp/ccs33Llf.s:178    .text.chCoreAllocI:0000000000000028 $t
+     /tmp/ccs33Llf.s:208    .text.chCoreStatus:0000000000000014 $t
 
 UNDEFINED SYMBOLS
 __heap_base__

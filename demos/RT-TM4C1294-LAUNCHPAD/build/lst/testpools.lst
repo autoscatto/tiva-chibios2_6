@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccKUptsB.s 			page 1
+ARM GAS  /tmp/ccAlBCQ4.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
   53              		.loc 1 68 0
   54 0000 0248     		ldr	r0, .L3
   55 0002 4FF4A871 		mov	r1, #336
-ARM GAS  /tmp/ccKUptsB.s 			page 2
+ARM GAS  /tmp/ccAlBCQ4.s 			page 2
 
 
   56 0006 0022     		movs	r2, #0
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  110              		.loc 1 82 0
  111 002a 2348     		ldr	r0, .L18+4
  112 002c FFF7FEFF 		bl	chPoolAlloc
-ARM GAS  /tmp/ccKUptsB.s 			page 3
+ARM GAS  /tmp/ccAlBCQ4.s 			page 3
 
 
  113              	.LVL8:
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  167 0078 F3D1     		bne	.L14
  168              		.loc 1 93 0
  169 007a 0F48     		ldr	r0, .L18+4
-ARM GAS  /tmp/ccKUptsB.s 			page 4
+ARM GAS  /tmp/ccAlBCQ4.s 			page 4
 
 
  170 007c FFF7FEFF 		bl	chPoolAlloc
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  224 0000 4D656D6F 		.ascii	"Memory Pools, queue/dequeue\000"
  224      72792050 
  224      6F6F6C73 
-ARM GAS  /tmp/ccKUptsB.s 			page 5
+ARM GAS  /tmp/ccAlBCQ4.s 			page 5
 
 
  224      2C207175 
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  277 0028 696E7400 		.ascii	"int\000"
  278 002c 03       		.uleb128 0x3
  279 002d 00000000 		.4byte	.LASF5
-ARM GAS  /tmp/ccKUptsB.s 			page 6
+ARM GAS  /tmp/ccAlBCQ4.s 			page 6
 
 
  280 0031 02       		.byte	0x2
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  334 0097 04       		.uleb128 0x4
  335 0098 01       		.byte	0x1
  336 0099 02       		.byte	0x2
-ARM GAS  /tmp/ccKUptsB.s 			page 7
+ARM GAS  /tmp/ccAlBCQ4.s 			page 7
 
 
  337 009a B5020000 		.4byte	.LASF13
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  391 0106 0A       		.uleb128 0xa
  392 0107 64020000 		.4byte	.LASF19
  393 010b 07       		.byte	0x7
-ARM GAS  /tmp/ccKUptsB.s 			page 8
+ARM GAS  /tmp/ccAlBCQ4.s 			page 8
 
 
  394 010c 38       		.byte	0x38
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  448 0175 DE000000 		.4byte	.LASF38
  449 0179 01       		.byte	0x1
  450 017a 47       		.byte	0x47
-ARM GAS  /tmp/ccKUptsB.s 			page 9
+ARM GAS  /tmp/ccAlBCQ4.s 			page 9
 
 
  451 017b 01       		.byte	0x1
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  505 01e6 00       		.byte	0
  506 01e7 00       		.byte	0
  507 01e8 15       		.uleb128 0x15
-ARM GAS  /tmp/ccKUptsB.s 			page 10
+ARM GAS  /tmp/ccAlBCQ4.s 			page 10
 
 
  508 01e9 74010000 		.4byte	0x174
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  562 0261 00       		.byte	0
  563 0262 18       		.uleb128 0x18
  564 0263 74000000 		.4byte	.LVL15
-ARM GAS  /tmp/ccKUptsB.s 			page 11
+ARM GAS  /tmp/ccAlBCQ4.s 			page 11
 
 
  565 0267 28040000 		.4byte	0x428
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  619 02cd DB020000 		.4byte	0x2db
  620 02d1 14       		.uleb128 0x14
  621 02d2 01       		.uleb128 0x1
-ARM GAS  /tmp/ccKUptsB.s 			page 12
+ARM GAS  /tmp/ccAlBCQ4.s 			page 12
 
 
  622 02d3 50       		.byte	0x50
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  676 0333 50       		.byte	0x50
  677 0334 01       		.uleb128 0x1
  678 0335 31       		.byte	0x31
-ARM GAS  /tmp/ccKUptsB.s 			page 13
+ARM GAS  /tmp/ccAlBCQ4.s 			page 13
 
 
  679 0336 00       		.byte	0
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  733 03a5 05       		.uleb128 0x5
  734 03a6 03       		.byte	0x3
  735 03a7 00000000 		.4byte	testpools1
-ARM GAS  /tmp/ccKUptsB.s 			page 14
+ARM GAS  /tmp/ccAlBCQ4.s 			page 14
 
 
  736 03ab 0C       		.uleb128 0xc
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  790 0423 F7030000 		.4byte	0x3f7
  791 0427 00       		.byte	0
  792 0428 23       		.uleb128 0x23
-ARM GAS  /tmp/ccKUptsB.s 			page 15
+ARM GAS  /tmp/ccAlBCQ4.s 			page 15
 
 
  793 0429 70020000 		.4byte	.LASF34
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  847 001e 03       		.uleb128 0x3
  848 001f 16       		.uleb128 0x16
  849 0020 00       		.byte	0
-ARM GAS  /tmp/ccKUptsB.s 			page 16
+ARM GAS  /tmp/ccAlBCQ4.s 			page 16
 
 
  850 0021 03       		.uleb128 0x3
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  904 0057 00       		.byte	0
  905 0058 09       		.uleb128 0x9
  906 0059 13       		.uleb128 0x13
-ARM GAS  /tmp/ccKUptsB.s 			page 17
+ARM GAS  /tmp/ccAlBCQ4.s 			page 17
 
 
  907 005a 01       		.byte	0x1
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  961 0090 00       		.byte	0
  962 0091 0E       		.uleb128 0xe
  963 0092 2E       		.uleb128 0x2e
-ARM GAS  /tmp/ccKUptsB.s 			page 18
+ARM GAS  /tmp/ccAlBCQ4.s 			page 18
 
 
  964 0093 01       		.byte	0x1
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1018 00ca 05       		.uleb128 0x5
  1019 00cb 00       		.byte	0
  1020 00cc 03       		.uleb128 0x3
-ARM GAS  /tmp/ccKUptsB.s 			page 19
+ARM GAS  /tmp/ccAlBCQ4.s 			page 19
 
 
  1021 00cd 0E       		.uleb128 0xe
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1075 010a 15       		.uleb128 0x15
  1076 010b 2E       		.uleb128 0x2e
  1077 010c 01       		.byte	0x1
-ARM GAS  /tmp/ccKUptsB.s 			page 20
+ARM GAS  /tmp/ccAlBCQ4.s 			page 20
 
 
  1078 010d 31       		.uleb128 0x31
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1132 0148 00       		.byte	0
  1133 0149 03       		.uleb128 0x3
  1134 014a 08       		.uleb128 0x8
-ARM GAS  /tmp/ccKUptsB.s 			page 21
+ARM GAS  /tmp/ccAlBCQ4.s 			page 21
 
 
  1135 014b 3A       		.uleb128 0x3a
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1189 0181 0B       		.uleb128 0xb
  1190 0182 3B       		.uleb128 0x3b
  1191 0183 0B       		.uleb128 0xb
-ARM GAS  /tmp/ccKUptsB.s 			page 22
+ARM GAS  /tmp/ccAlBCQ4.s 			page 22
 
 
  1192 0184 49       		.uleb128 0x49
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1246 01ba 2E       		.uleb128 0x2e
  1247 01bb 01       		.byte	0x1
  1248 01bc 3F       		.uleb128 0x3f
-ARM GAS  /tmp/ccKUptsB.s 			page 23
+ARM GAS  /tmp/ccAlBCQ4.s 			page 23
 
 
  1249 01bd 19       		.uleb128 0x19
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1303 0029 0200     		.2byte	0x2
  1304 002b 30       		.byte	0x30
  1305 002c 9F       		.byte	0x9f
-ARM GAS  /tmp/ccKUptsB.s 			page 24
+ARM GAS  /tmp/ccAlBCQ4.s 			page 24
 
 
  1306 002d 12000000 		.4byte	.LVL4
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1360 0099 35       		.byte	0x35
  1361 009a 74       		.byte	0x74
  1362 009b 00       		.sleb128 0
-ARM GAS  /tmp/ccKUptsB.s 			page 25
+ARM GAS  /tmp/ccAlBCQ4.s 			page 25
 
 
  1363 009c 1C       		.byte	0x1c
@@ -1498,7 +1498,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1409 0014 73657475 		.ascii	"setup\000"
  1409      7000
  1410              	.LASF6:
-ARM GAS  /tmp/ccKUptsB.s 			page 26
+ARM GAS  /tmp/ccAlBCQ4.s 			page 26
 
 
  1411 001a 5F5F696E 		.ascii	"__int32_t\000"
@@ -1558,7 +1558,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1433              	.LASF38:
  1434 00de 706F6F6C 		.ascii	"pools1_execute\000"
  1434      73315F65 
-ARM GAS  /tmp/ccKUptsB.s 			page 27
+ARM GAS  /tmp/ccAlBCQ4.s 			page 27
 
 
  1434      78656375 
@@ -1618,7 +1618,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1456      202D6661 
  1456      6C69676E 
  1456      2D66756E 
-ARM GAS  /tmp/ccKUptsB.s 			page 28
+ARM GAS  /tmp/ccAlBCQ4.s 			page 28
 
 
  1456      6374696F 
@@ -1678,7 +1678,7 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1481 0287 6368506F 		.ascii	"chPoolAlloc\000"
  1481      6F6C416C 
  1481      6C6F6300 
-ARM GAS  /tmp/ccKUptsB.s 			page 29
+ARM GAS  /tmp/ccAlBCQ4.s 			page 29
 
 
  1482              	.LASF7:
@@ -1703,26 +1703,26 @@ ARM GAS  /tmp/ccKUptsB.s 			page 1
  1493      6F6C496E 
  1493      697400
  1494              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/ccKUptsB.s 			page 30
+ARM GAS  /tmp/ccAlBCQ4.s 			page 30
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 testpools.c
-     /tmp/ccKUptsB.s:19     .text.null_provider:0000000000000000 $t
-     /tmp/ccKUptsB.s:24     .text.null_provider:0000000000000000 null_provider
-     /tmp/ccKUptsB.s:41     .text.pools1_setup:0000000000000000 $t
-     /tmp/ccKUptsB.s:46     .text.pools1_setup:0000000000000000 pools1_setup
-     /tmp/ccKUptsB.s:62     .text.pools1_setup:000000000000000c $d
-     /tmp/ccKUptsB.s:67     .text.pools1_execute:0000000000000000 $t
-     /tmp/ccKUptsB.s:72     .text.pools1_execute:0000000000000000 pools1_execute
-     /tmp/ccKUptsB.s:211    .text.pools1_execute:00000000000000b4 $d
-     /tmp/ccKUptsB.s:229    .rodata.patternpools:0000000000000000 patternpools
-     /tmp/ccKUptsB.s:245    .rodata.testpools1:0000000000000000 testpools1
-     /tmp/ccKUptsB.s:222    .rodata.str1.4:0000000000000000 $d
-     /tmp/ccKUptsB.s:226    .rodata.patternpools:0000000000000000 $d
-     /tmp/ccKUptsB.s:233    .data.mp1:0000000000000000 $d
-     /tmp/ccKUptsB.s:237    .data.mp1:0000000000000000 mp1
-     /tmp/ccKUptsB.s:242    .rodata.testpools1:0000000000000000 $d
+     /tmp/ccAlBCQ4.s:19     .text.null_provider:0000000000000000 $t
+     /tmp/ccAlBCQ4.s:24     .text.null_provider:0000000000000000 null_provider
+     /tmp/ccAlBCQ4.s:41     .text.pools1_setup:0000000000000000 $t
+     /tmp/ccAlBCQ4.s:46     .text.pools1_setup:0000000000000000 pools1_setup
+     /tmp/ccAlBCQ4.s:62     .text.pools1_setup:000000000000000c $d
+     /tmp/ccAlBCQ4.s:67     .text.pools1_execute:0000000000000000 $t
+     /tmp/ccAlBCQ4.s:72     .text.pools1_execute:0000000000000000 pools1_execute
+     /tmp/ccAlBCQ4.s:211    .text.pools1_execute:00000000000000b4 $d
+     /tmp/ccAlBCQ4.s:229    .rodata.patternpools:0000000000000000 patternpools
+     /tmp/ccAlBCQ4.s:245    .rodata.testpools1:0000000000000000 testpools1
+     /tmp/ccAlBCQ4.s:222    .rodata.str1.4:0000000000000000 $d
+     /tmp/ccAlBCQ4.s:226    .rodata.patternpools:0000000000000000 $d
+     /tmp/ccAlBCQ4.s:233    .data.mp1:0000000000000000 $d
+     /tmp/ccAlBCQ4.s:237    .data.mp1:0000000000000000 mp1
+     /tmp/ccAlBCQ4.s:242    .rodata.testpools1:0000000000000000 $d
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS
