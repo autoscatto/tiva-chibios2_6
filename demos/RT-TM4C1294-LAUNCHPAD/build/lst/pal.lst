@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccWomMDm.s 			page 1
+ARM GAS  /tmp/ccsvYpXJ.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
   55              		.loc 1 103 0
   56              		.cfi_startproc
   57              		@ args = 0, pretend = 0, frame = 0
-ARM GAS  /tmp/ccWomMDm.s 			page 2
+ARM GAS  /tmp/ccsvYpXJ.s 			page 2
 
 
   58              		@ frame_needed = 0, uses_anonymous_args = 0
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  110              		.size	palSetBusMode, .-palSetBusMode
  111 0016 00BFAFF3 		.text
  111      0080AFF3 
-ARM GAS  /tmp/ccWomMDm.s 			page 3
+ARM GAS  /tmp/ccsvYpXJ.s 			page 3
 
 
  111      0080
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  165 005d 6A010000 		.4byte	.LASF5
  166 0061 04       		.uleb128 0x4
  167 0062 06010000 		.4byte	.LASF7
-ARM GAS  /tmp/ccWomMDm.s 			page 4
+ARM GAS  /tmp/ccsvYpXJ.s 			page 4
 
 
  168 0066 02       		.byte	0x2
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  222 00d4 0A       		.uleb128 0xa
  223 00d5 70020000 		.4byte	.LASF16
  224 00d9 04       		.byte	0x4
-ARM GAS  /tmp/ccWomMDm.s 			page 5
+ARM GAS  /tmp/ccsvYpXJ.s 			page 5
 
 
  225 00da 0602     		.2byte	0x206
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  279 0151 0A02     		.2byte	0x20a
  280 0153 B0000000 		.4byte	0xb0
  281 0157 0004     		.2byte	0x400
-ARM GAS  /tmp/ccWomMDm.s 			page 6
+ARM GAS  /tmp/ccsvYpXJ.s 			page 6
 
 
  282 0159 10       		.uleb128 0x10
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  336 01d5 0B       		.uleb128 0xb
  337 01d6 94010000 		.4byte	.LASF20
  338 01da 04       		.byte	0x4
-ARM GAS  /tmp/ccWomMDm.s 			page 7
+ARM GAS  /tmp/ccsvYpXJ.s 			page 7
 
 
  339 01db 1402     		.2byte	0x214
@@ -418,7 +418,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  393 0258 1D02     		.2byte	0x21d
  394 025a B0000000 		.4byte	0xb0
  395 025e 2405     		.2byte	0x524
-ARM GAS  /tmp/ccWomMDm.s 			page 8
+ARM GAS  /tmp/ccsvYpXJ.s 			page 8
 
 
  396 0260 0B       		.uleb128 0xb
@@ -478,7 +478,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  450 02dd 0B       		.uleb128 0xb
  451 02de 84020000 		.4byte	.LASF32
  452 02e2 04       		.byte	0x4
-ARM GAS  /tmp/ccWomMDm.s 			page 9
+ARM GAS  /tmp/ccsvYpXJ.s 			page 9
 
 
  453 02e3 2702     		.2byte	0x227
@@ -538,7 +538,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  507 035b 5F030000 		.4byte	0x35f
  508 035f 13       		.uleb128 0x13
  509 0360 04       		.byte	0x4
-ARM GAS  /tmp/ccWomMDm.s 			page 10
+ARM GAS  /tmp/ccsvYpXJ.s 			page 10
 
 
  510 0361 2B030000 		.4byte	0x32b
@@ -598,7 +598,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  564 03d3 00000000 		.4byte	.LFB119
  565 03d7 16000000 		.4byte	.LFE119-.LFB119
  566 03db 01       		.uleb128 0x1
-ARM GAS  /tmp/ccWomMDm.s 			page 11
+ARM GAS  /tmp/ccsvYpXJ.s 			page 11
 
 
  567 03dc 9C       		.byte	0x9c
@@ -658,7 +658,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  621 0449 4D040000 		.4byte	0x44d
  622 044d 05       		.uleb128 0x5
  623 044e 81000000 		.4byte	0x81
-ARM GAS  /tmp/ccWomMDm.s 			page 12
+ARM GAS  /tmp/ccsvYpXJ.s 			page 12
 
 
  624 0452 1F       		.uleb128 0x1f
@@ -718,7 +718,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  678 0028 00       		.byte	0
  679 0029 04       		.uleb128 0x4
  680 002a 16       		.uleb128 0x16
-ARM GAS  /tmp/ccWomMDm.s 			page 13
+ARM GAS  /tmp/ccsvYpXJ.s 			page 13
 
 
  681 002b 00       		.byte	0
@@ -778,7 +778,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  735 0061 00       		.byte	0
  736 0062 00       		.byte	0
  737 0063 0A       		.uleb128 0xa
-ARM GAS  /tmp/ccWomMDm.s 			page 14
+ARM GAS  /tmp/ccsvYpXJ.s 			page 14
 
 
  738 0064 0D       		.uleb128 0xd
@@ -838,7 +838,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  792 009a 00       		.byte	0
  793 009b 0E       		.uleb128 0xe
  794 009c 0D       		.uleb128 0xd
-ARM GAS  /tmp/ccWomMDm.s 			page 15
+ARM GAS  /tmp/ccsvYpXJ.s 			page 15
 
 
  795 009d 00       		.byte	0
@@ -898,7 +898,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  849 00d3 0B       		.uleb128 0xb
  850 00d4 0B       		.uleb128 0xb
  851 00d5 49       		.uleb128 0x49
-ARM GAS  /tmp/ccWomMDm.s 			page 16
+ARM GAS  /tmp/ccsvYpXJ.s 			page 16
 
 
  852 00d6 13       		.uleb128 0x13
@@ -958,7 +958,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  906 010d 01       		.uleb128 0x1
  907 010e 13       		.uleb128 0x13
  908 010f 00       		.byte	0
-ARM GAS  /tmp/ccWomMDm.s 			page 17
+ARM GAS  /tmp/ccsvYpXJ.s 			page 17
 
 
  909 0110 00       		.byte	0
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  963 0147 00       		.byte	0
  964 0148 00       		.byte	0
  965 0149 1A       		.uleb128 0x1a
-ARM GAS  /tmp/ccWomMDm.s 			page 18
+ARM GAS  /tmp/ccsvYpXJ.s 			page 18
 
 
  966 014a 05       		.uleb128 0x5
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  1020 0186 3A       		.uleb128 0x3a
  1021 0187 0B       		.uleb128 0xb
  1022 0188 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccWomMDm.s 			page 19
+ARM GAS  /tmp/ccsvYpXJ.s 			page 19
 
 
  1023 0189 05       		.uleb128 0x5
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  1077 002b 50       		.byte	0x50
  1078 002c 0A000000 		.4byte	.LVL5
  1079 0030 16000000 		.4byte	.LFE120
-ARM GAS  /tmp/ccWomMDm.s 			page 20
+ARM GAS  /tmp/ccsvYpXJ.s 			page 20
 
 
  1080 0034 0400     		.2byte	0x4
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  1133      02003201 
  1133      00000201 
  1133      FB0E0D00 
-ARM GAS  /tmp/ccWomMDm.s 			page 21
+ARM GAS  /tmp/ccsvYpXJ.s 			page 21
 
 
  1133      01010101 
@@ -1258,7 +1258,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  1156      00
  1157              	.LASF28:
  1158 0100 44523132 		.ascii	"DR12R\000"
-ARM GAS  /tmp/ccWomMDm.s 			page 22
+ARM GAS  /tmp/ccsvYpXJ.s 			page 22
 
 
  1158      5200
@@ -1318,7 +1318,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  1186      00
  1187              	.LASF37:
  1188 0189 696F706F 		.ascii	"ioportid_t\000"
-ARM GAS  /tmp/ccWomMDm.s 			page 23
+ARM GAS  /tmp/ccsvYpXJ.s 			page 23
 
 
  1188      72746964 
@@ -1378,7 +1378,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  1209      6E7400
  1210              	.LASF34:
  1211 0256 63686172 		.ascii	"char\000"
-ARM GAS  /tmp/ccWomMDm.s 			page 24
+ARM GAS  /tmp/ccsvYpXJ.s 			page 24
 
 
  1211      00
@@ -1438,7 +1438,7 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  1239      00
  1240              	.LASF29:
  1241 02e4 57414B45 		.ascii	"WAKEPEN\000"
-ARM GAS  /tmp/ccWomMDm.s 			page 25
+ARM GAS  /tmp/ccsvYpXJ.s 			page 25
 
 
  1241      50454E00 
@@ -1448,17 +1448,17 @@ ARM GAS  /tmp/ccWomMDm.s 			page 1
  1243      65446566 
  1243      00
  1244              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/ccWomMDm.s 			page 26
+ARM GAS  /tmp/ccsvYpXJ.s 			page 26
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 pal.c
-     /tmp/ccWomMDm.s:19     .text.palReadBus:0000000000000000 $t
-     /tmp/ccWomMDm.s:25     .text.palReadBus:0000000000000000 palReadBus
-     /tmp/ccWomMDm.s:47     .text.palWriteBus:0000000000000000 $t
-     /tmp/ccWomMDm.s:53     .text.palWriteBus:0000000000000000 palWriteBus
-     /tmp/ccWomMDm.s:77     .text.palSetBusMode:0000000000000000 $t
-     /tmp/ccWomMDm.s:83     .text.palSetBusMode:0000000000000000 palSetBusMode
+     /tmp/ccsvYpXJ.s:19     .text.palReadBus:0000000000000000 $t
+     /tmp/ccsvYpXJ.s:25     .text.palReadBus:0000000000000000 palReadBus
+     /tmp/ccsvYpXJ.s:47     .text.palWriteBus:0000000000000000 $t
+     /tmp/ccsvYpXJ.s:53     .text.palWriteBus:0000000000000000 palWriteBus
+     /tmp/ccsvYpXJ.s:77     .text.palSetBusMode:0000000000000000 $t
+     /tmp/ccsvYpXJ.s:83     .text.palSetBusMode:0000000000000000 palSetBusMode
                      .debug_frame:0000000000000010 $d
 
 UNDEFINED SYMBOLS

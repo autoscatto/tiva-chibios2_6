@@ -1,4 +1,4 @@
-ARM GAS  /tmp/cciznQFA.s 			page 1
+ARM GAS  /tmp/ccOI7fS6.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
   52              		.cfi_endproc
   53              	.LFE1:
   54              		.size	__late_init, .-__late_init
-ARM GAS  /tmp/cciznQFA.s 			page 2
+ARM GAS  /tmp/ccOI7fS6.s 			page 2
 
 
   55 0002 00BFAFF3 		.section	.text._default_exit,"ax",%progbits
@@ -118,7 +118,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  103              		.thumb
  104 0008 0223     		movs	r3, #2
  105              	@ 289 "../../os/ports/GCC/ARMCMx/crt0.c" 1
-ARM GAS  /tmp/cciznQFA.s 			page 3
+ARM GAS  /tmp/ccOI7fS6.s 			page 3
 
 
  106 000a 83F31488 		msr     CONTROL, r3
@@ -178,7 +178,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  160              	.LBB4:
  161              		.loc 1 312 0 is_stmt 1
  162 0056 2049     		ldr	r1, .L26+20
-ARM GAS  /tmp/cciznQFA.s 			page 4
+ARM GAS  /tmp/ccOI7fS6.s 			page 4
 
 
  163 0058 204B     		ldr	r3, .L26+24
@@ -238,7 +238,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  217 009c AC42     		cmp	r4, r5
  218 009e 04D2     		bcs	.L18
  219              	.LVL16:
-ARM GAS  /tmp/cciznQFA.s 			page 5
+ARM GAS  /tmp/ccOI7fS6.s 			page 5
 
 
  220              	.L22:
@@ -298,7 +298,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  274 00f0 00000000 		.word	__init_array_start
  275 00f4 00000000 		.word	__fini_array_end
  276 00f8 00000000 		.word	__fini_array_start
-ARM GAS  /tmp/cciznQFA.s 			page 6
+ARM GAS  /tmp/ccOI7fS6.s 			page 6
 
 
  277              		.cfi_endproc
@@ -358,7 +358,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  331 0061 D7000000 		.4byte	.LASF7
  332 0065 02       		.uleb128 0x2
  333 0066 08       		.byte	0x8
-ARM GAS  /tmp/cciznQFA.s 			page 7
+ARM GAS  /tmp/ccOI7fS6.s 			page 7
 
 
  334 0067 05       		.byte	0x5
@@ -418,7 +418,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  388 00d6 02000000 		.4byte	.LFE1-.LFB1
  389 00da 01       		.uleb128 0x1
  390 00db 9C       		.byte	0x9c
-ARM GAS  /tmp/cciznQFA.s 			page 8
+ARM GAS  /tmp/ccOI7fS6.s 			page 8
 
 
  391 00dc 07       		.uleb128 0x7
@@ -478,7 +478,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  445 0160 09       		.uleb128 0x9
  446 0161 703200   		.ascii	"p2\000"
  447 0164 01       		.byte	0x1
-ARM GAS  /tmp/cciznQFA.s 			page 9
+ARM GAS  /tmp/ccOI7fS6.s 			page 9
 
 
  448 0165 2C01     		.2byte	0x12c
@@ -538,7 +538,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  502 01ef B3000000 		.4byte	.LLST6
  503 01f3 00       		.byte	0
  504 01f4 0E       		.uleb128 0xe
-ARM GAS  /tmp/cciznQFA.s 			page 10
+ARM GAS  /tmp/ccOI7fS6.s 			page 10
 
 
  505 01f5 16000000 		.4byte	.LVL2
@@ -598,7 +598,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  559 0273 8C000000 		.4byte	0x8c
  560 0277 0F       		.uleb128 0xf
  561 0278 BD000000 		.4byte	.LASF26
-ARM GAS  /tmp/cciznQFA.s 			page 11
+ARM GAS  /tmp/ccOI7fS6.s 			page 11
 
 
  562 027c 01       		.byte	0x1
@@ -658,7 +658,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  616 0018 3E       		.uleb128 0x3e
  617 0019 0B       		.uleb128 0xb
  618 001a 03       		.uleb128 0x3
-ARM GAS  /tmp/cciznQFA.s 			page 12
+ARM GAS  /tmp/ccOI7fS6.s 			page 12
 
 
  619 001b 0E       		.uleb128 0xe
@@ -718,7 +718,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  673 0051 27       		.uleb128 0x27
  674 0052 19       		.uleb128 0x19
  675 0053 11       		.uleb128 0x11
-ARM GAS  /tmp/cciznQFA.s 			page 13
+ARM GAS  /tmp/ccOI7fS6.s 			page 13
 
 
  676 0054 01       		.uleb128 0x1
@@ -778,7 +778,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  730 008c 3B       		.uleb128 0x3b
  731 008d 05       		.uleb128 0x5
  732 008e 49       		.uleb128 0x49
-ARM GAS  /tmp/cciznQFA.s 			page 14
+ARM GAS  /tmp/ccOI7fS6.s 			page 14
 
 
  733 008f 13       		.uleb128 0x13
@@ -838,7 +838,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  787 00c7 3A       		.uleb128 0x3a
  788 00c8 0B       		.uleb128 0xb
  789 00c9 3B       		.uleb128 0x3b
-ARM GAS  /tmp/cciznQFA.s 			page 15
+ARM GAS  /tmp/ccOI7fS6.s 			page 15
 
 
  790 00ca 0B       		.uleb128 0xb
@@ -898,7 +898,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  844 0039 73       		.byte	0x73
  845 003a 04       		.sleb128 4
  846 003b 9F       		.byte	0x9f
-ARM GAS  /tmp/cciznQFA.s 			page 16
+ARM GAS  /tmp/ccOI7fS6.s 			page 16
 
 
  847 003c 00000000 		.4byte	0
@@ -958,7 +958,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  901 00be BA000000 		.4byte	.LVL22
  902 00c2 BC000000 		.4byte	.LVL23
  903 00c6 0300     		.2byte	0x3
-ARM GAS  /tmp/cciznQFA.s 			page 17
+ARM GAS  /tmp/ccOI7fS6.s 			page 17
 
 
  904 00c8 74       		.byte	0x74
@@ -1018,7 +1018,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  957      02008700 
  957      00000201 
  957      FB0E0D00 
-ARM GAS  /tmp/cciznQFA.s 			page 18
+ARM GAS  /tmp/ccOI7fS6.s 			page 18
 
 
  957      01010101 
@@ -1078,7 +1078,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  980              	.LASF29:
  981 00aa 5F5F6669 		.ascii	"__fini_array_start\000"
  981      6E695F61 
-ARM GAS  /tmp/cciznQFA.s 			page 19
+ARM GAS  /tmp/ccOI7fS6.s 			page 19
 
 
  981      72726179 
@@ -1138,7 +1138,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  1000      6374696F 
  1000      6E73202D 
  1000      666E6F2D 
-ARM GAS  /tmp/cciznQFA.s 			page 20
+ARM GAS  /tmp/ccOI7fS6.s 			page 20
 
 
  1000      636F6D6D 
@@ -1198,7 +1198,7 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  1025 0282 7369676E 		.ascii	"signed char\000"
  1025      65642063 
  1025      68617200 
-ARM GAS  /tmp/cciznQFA.s 			page 21
+ARM GAS  /tmp/ccOI7fS6.s 			page 21
 
 
  1026              	.LASF21:
@@ -1225,22 +1225,22 @@ ARM GAS  /tmp/cciznQFA.s 			page 1
  1033      5F657869 
  1033      7400
  1034              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/cciznQFA.s 			page 22
+ARM GAS  /tmp/ccOI7fS6.s 			page 22
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 crt0.c
-     /tmp/cciznQFA.s:19     .text.__early_init:0000000000000000 $t
-     /tmp/cciznQFA.s:25     .text.__early_init:0000000000000000 __early_init
-     /tmp/cciznQFA.s:38     .text.__late_init:0000000000000000 $t
-     /tmp/cciznQFA.s:44     .text.__late_init:0000000000000000 __late_init
-     /tmp/cciznQFA.s:56     .text._default_exit:0000000000000000 $t
-     /tmp/cciznQFA.s:62     .text._default_exit:0000000000000000 _default_exit
-     /tmp/cciznQFA.s:76     .text.Reset_Handler:0000000000000000 $t
-     /tmp/cciznQFA.s:82     .text.Reset_Handler:0000000000000000 Reset_Handler
-     /tmp/cciznQFA.s:263    .text.Reset_Handler:00000000000000c4 $d
+     /tmp/ccOI7fS6.s:19     .text.__early_init:0000000000000000 $t
+     /tmp/ccOI7fS6.s:25     .text.__early_init:0000000000000000 __early_init
+     /tmp/ccOI7fS6.s:38     .text.__late_init:0000000000000000 $t
+     /tmp/ccOI7fS6.s:44     .text.__late_init:0000000000000000 __late_init
+     /tmp/ccOI7fS6.s:56     .text._default_exit:0000000000000000 $t
+     /tmp/ccOI7fS6.s:62     .text._default_exit:0000000000000000 _default_exit
+     /tmp/ccOI7fS6.s:76     .text.Reset_Handler:0000000000000000 $t
+     /tmp/ccOI7fS6.s:82     .text.Reset_Handler:0000000000000000 Reset_Handler
+     /tmp/ccOI7fS6.s:263    .text.Reset_Handler:00000000000000c4 $d
                      .debug_frame:0000000000000010 $d
-     /tmp/cciznQFA.s:280    .text.Reset_Handler:00000000000000fc $t
+     /tmp/ccOI7fS6.s:280    .text.Reset_Handler:00000000000000fc $t
 
 UNDEFINED SYMBOLS
 main

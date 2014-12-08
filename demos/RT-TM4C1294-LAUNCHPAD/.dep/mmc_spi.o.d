@@ -43,9 +43,10 @@ build/obj/mmc_spi.o: ../../os/hal/src/mmc_spi.c \
  ../../os/hal/include/i2c.h ../../os/hal/include/icu.h \
  ../../os/hal/include/mac.h ../../os/hal/include/pwm.h \
  ../../os/hal/include/rtc.h ../../os/hal/include/serial.h \
- ../../os/hal/include/sdc.h ../../os/hal/include/spi.h \
- ../../os/hal/include/uart.h ../../os/hal/include/usb.h \
- ../../os/hal/include/mmc_spi.h ../../os/hal/include/serial_usb.h
+ ../../os/hal/platforms/TM4C129x/serial_lld.h ../../os/hal/include/sdc.h \
+ ../../os/hal/include/spi.h ../../os/hal/include/uart.h \
+ ../../os/hal/include/usb.h ../../os/hal/include/mmc_spi.h \
+ ../../os/hal/include/serial_usb.h
 
 /usr/include/newlib/string.h:
 
@@ -196,6 +197,8 @@ mcuconf.h:
 ../../os/hal/include/rtc.h:
 
 ../../os/hal/include/serial.h:
+
+../../os/hal/platforms/TM4C129x/serial_lld.h:
 
 ../../os/hal/include/sdc.h:
 

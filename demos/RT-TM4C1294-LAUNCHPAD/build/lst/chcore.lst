@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccInGtPI.s 			page 1
+ARM GAS  /tmp/ccDQrTfc.s 			page 1
 
 
    1              		.syntax unified
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccInGtPI.s 			page 1
   53 000a 04       		.byte	0x4
   54 000b 01       		.uleb128 0x1
   55 000c 0E000000 		.4byte	.LASF14
-ARM GAS  /tmp/ccInGtPI.s 			page 2
+ARM GAS  /tmp/ccDQrTfc.s 			page 2
 
 
   56 0010 01       		.byte	0x1
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccInGtPI.s 			page 1
  110 007c 41       		.byte	0x41
  111 007d 4F000000 		.4byte	0x4f
  112 0081 03       		.uleb128 0x3
-ARM GAS  /tmp/ccInGtPI.s 			page 3
+ARM GAS  /tmp/ccDQrTfc.s 			page 3
 
 
  113 0082 01       		.byte	0x1
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccInGtPI.s 			page 1
  167 0019 0B       		.uleb128 0xb
  168 001a 03       		.uleb128 0x3
  169 001b 08       		.uleb128 0x8
-ARM GAS  /tmp/ccInGtPI.s 			page 4
+ARM GAS  /tmp/ccDQrTfc.s 			page 4
 
 
  170 001c 00       		.byte	0
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccInGtPI.s 			page 1
  224 0053 3A       		.uleb128 0x3a
  225 0054 0B       		.uleb128 0xb
  226 0055 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccInGtPI.s 			page 5
+ARM GAS  /tmp/ccDQrTfc.s 			page 5
 
 
  227 0056 05       		.uleb128 0x5
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccInGtPI.s 			page 1
  269      6D622D69 
  269      6E746572 
  269      776F726B 
-ARM GAS  /tmp/ccInGtPI.s 			page 6
+ARM GAS  /tmp/ccDQrTfc.s 			page 6
 
 
  269      202D6D74 
@@ -358,7 +358,7 @@ ARM GAS  /tmp/ccInGtPI.s 			page 1
  286      20636861 
  286      7200
  287              	.LASF13:
-ARM GAS  /tmp/ccInGtPI.s 			page 7
+ARM GAS  /tmp/ccDQrTfc.s 			page 7
 
 
  288 0183 63686172 		.ascii	"char\000"
@@ -399,13 +399,13 @@ ARM GAS  /tmp/ccInGtPI.s 			page 1
  306      74797065 
  306      00
  307              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/ccInGtPI.s 			page 8
+ARM GAS  /tmp/ccDQrTfc.s 			page 8
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chcore.c
-     /tmp/ccInGtPI.s:19     .text.port_halt:0000000000000000 $t
-     /tmp/ccInGtPI.s:25     .text.port_halt:0000000000000000 port_halt
+     /tmp/ccDQrTfc.s:19     .text.port_halt:0000000000000000 $t
+     /tmp/ccDQrTfc.s:25     .text.port_halt:0000000000000000 port_halt
                      .debug_frame:0000000000000010 $d
 
 NO UNDEFINED SYMBOLS
