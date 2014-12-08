@@ -164,6 +164,7 @@ void gpio_init (GPIO_TypeDef *gpiop, const tiva_gpio_setup_t *config)
  *
  * @notapi
  */
+
 void _pal_lld_init(const PALConfig *config)
 {
   SYSCTL->RCGCGPIO = RCGCGPIO_VALUE;
@@ -171,7 +172,7 @@ void _pal_lld_init(const PALConfig *config)
   __NOP();
   __NOP();
   __NOP();
-  
+
   gpio_init(GPIOA, &config->PAData);
 
   gpio_init(GPIOB, &config->PBData);

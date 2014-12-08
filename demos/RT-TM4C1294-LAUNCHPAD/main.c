@@ -7,11 +7,9 @@ int main(void) {
 
   halInit();
   chSysInit();
-
-  while(TRUE) {
-    palTogglePad(GPIOF, GPIOF_LED0);
-    chThdSleepMilliseconds(1000);
-  }
+  //palTogglePad(GPIOF, GPIOF_LED0);
+  palSetPad(GPIOF, GPIOF_LED1); 
+  while(TRUE) {}
 }
 
 

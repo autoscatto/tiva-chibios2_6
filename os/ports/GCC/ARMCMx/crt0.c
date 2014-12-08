@@ -1,35 +1,28 @@
 /*
-    ChibiOS/RT - Copyright (C) 2006,2007,2008,2009,2010,
-                 2011,2012,2013 Giovanni Di Sirio.
+    ChibiOS - Copyright (C) 2006,2007,2008,2009,2010,
+              2011,2012,2013,2014 Giovanni Di Sirio.
 
-    This file is part of ChibiOS/RT.
+    This file is part of ChibiOS.
 
-    ChibiOS/RT is free software; you can redistribute it and/or modify
+    ChibiOS is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation; either version 3 of the License, or
     (at your option) any later version.
 
-    ChibiOS/RT is distributed in the hope that it will be useful,
+    ChibiOS is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-                                      ---
-
-    A special exception to the GPL can be applied should you wish to distribute
-    a combined work that includes ChibiOS/RT, without being obliged to provide
-    the source code for any proprietary components. See the file exception.txt
-    for full details of how and when the exception can be applied.
 */
 
 /**
- * @file    ARMCMx/crt0.c
- * @brief   Generic ARMvx-M (Cortex-M0/M1/M3/M4) startup file for ChibiOS/RT.
+ * @file    ARMCMx/GCC/crt0.c
+ * @brief   Generic GCC Cortex-Mx startup file.
  *
- * @addtogroup ARMCMx_STARTUP
+ * @addtogroup ARMCMx_GCC_STARTUP
  * @{
  */
 
@@ -59,10 +52,10 @@ typedef funcp_t * funcpp_t;
  * until stacks are initialized.
  */
 #define fill32(start, end, filler) {                                        \
-  uint32_t *p1 = start;                                                     \
-  uint32_t *p2 = end;                                                       \
+  uint32_t *p1 = (start);                                                   \
+  uint32_t *p2 = (end);                                                     \
   while (p1 < p2)                                                           \
-    *p1++ = filler;                                                         \
+    *p1++ = (filler);                                                       \
 }
 
 /*===========================================================================*/
@@ -252,7 +245,7 @@ void __late_init(void) {}
  * @note    This function is a weak symbol.
  */
 #if !defined(__DOXYGEN__)
-__attribute__((weak, naked))
+__attribute__((noreturn, weak))
 #endif
 void _default_exit(void) {
   while (1)
@@ -265,7 +258,7 @@ void _default_exit(void) {
 #if !defined(__DOXYGEN__)
 __attribute__((naked))
 #endif
-void ResetHandler(void) {
+void Reset_Handler(void) {
   uint32_t psp, reg;
 
   /* Process Stack initialization, it is allocated starting from the
@@ -296,6 +289,9 @@ void ResetHandler(void) {
   asm volatile ("msr     CONTROL, %0" : : "r" (reg));
   asm volatile ("isb");
 
+  /* Early initialization hook invocation.*/
+  __early_init();
+
 #if CRT0_INIT_STACKS
   /* Main and Process stacks initialization.*/
   fill32(&__main_stack_base__,
@@ -305,9 +301,6 @@ void ResetHandler(void) {
          &__process_stack_end__,
          CRT0_STACKS_FILL_PATTERN);
 #endif
-
-  /* Early initialization hook invocation.*/
-  __early_init();
 
 #if CRT0_INIT_DATA
   /* DATA segment initialization.*/

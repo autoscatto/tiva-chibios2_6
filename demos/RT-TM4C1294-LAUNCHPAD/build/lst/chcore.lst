@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccQFRaDT.s 			page 1
+ARM GAS  /tmp/ccInGtPI.s 			page 1
 
 
    1              		.syntax unified
@@ -58,12 +58,12 @@ ARM GAS  /tmp/ccQFRaDT.s 			page 1
   53 000a 04       		.byte	0x4
   54 000b 01       		.uleb128 0x1
   55 000c 0E000000 		.4byte	.LASF14
-ARM GAS  /tmp/ccQFRaDT.s 			page 2
+ARM GAS  /tmp/ccInGtPI.s 			page 2
 
 
   56 0010 01       		.byte	0x1
-  57 0011 CB000000 		.4byte	.LASF15
-  58 0015 94010000 		.4byte	.LASF16
+  57 0011 BE000000 		.4byte	.LASF15
+  58 0015 EE000000 		.4byte	.LASF16
   59 0019 00000000 		.4byte	.Ldebug_ranges0+0
   60 001d 00000000 		.4byte	0
   61 0021 00000000 		.4byte	.Ldebug_line0
@@ -74,36 +74,36 @@ ARM GAS  /tmp/ccQFRaDT.s 			page 1
   66 002c 03       		.uleb128 0x3
   67 002d 04       		.byte	0x4
   68 002e 07       		.byte	0x7
-  69 002f BE000000 		.4byte	.LASF0
+  69 002f E1000000 		.4byte	.LASF0
   70 0033 03       		.uleb128 0x3
   71 0034 01       		.byte	0x1
   72 0035 06       		.byte	0x6
-  73 0036 59010000 		.4byte	.LASF1
+  73 0036 A4010000 		.4byte	.LASF1
   74 003a 03       		.uleb128 0x3
   75 003b 01       		.byte	0x1
   76 003c 08       		.byte	0x8
-  77 003d 2A010000 		.4byte	.LASF2
+  77 003d 75010000 		.4byte	.LASF2
   78 0041 03       		.uleb128 0x3
   79 0042 02       		.byte	0x2
   80 0043 05       		.byte	0x5
-  81 0044 79010000 		.4byte	.LASF3
+  81 0044 C4010000 		.4byte	.LASF3
   82 0048 03       		.uleb128 0x3
   83 0049 02       		.byte	0x2
   84 004a 07       		.byte	0x7
-  85 004b 17010000 		.4byte	.LASF4
+  85 004b 62010000 		.4byte	.LASF4
   86 004f 04       		.uleb128 0x4
-  87 0050 65010000 		.4byte	.LASF9
+  87 0050 B0010000 		.4byte	.LASF9
   88 0054 02       		.byte	0x2
   89 0055 3F       		.byte	0x3f
   90 0056 5A000000 		.4byte	0x5a
   91 005a 03       		.uleb128 0x3
   92 005b 04       		.byte	0x4
   93 005c 05       		.byte	0x5
-  94 005d 3D010000 		.4byte	.LASF5
+  94 005d 88010000 		.4byte	.LASF5
   95 0061 03       		.uleb128 0x3
   96 0062 04       		.byte	0x4
   97 0063 07       		.byte	0x7
-  98 0064 EE000000 		.4byte	.LASF6
+  98 0064 39010000 		.4byte	.LASF6
   99 0068 03       		.uleb128 0x3
  100 0069 08       		.byte	0x8
  101 006a 05       		.byte	0x5
@@ -111,29 +111,29 @@ ARM GAS  /tmp/ccQFRaDT.s 			page 1
  103 006f 03       		.uleb128 0x3
  104 0070 08       		.byte	0x8
  105 0071 07       		.byte	0x7
- 106 0072 00010000 		.4byte	.LASF8
+ 106 0072 4B010000 		.4byte	.LASF8
  107 0076 04       		.uleb128 0x4
- 108 0077 83010000 		.4byte	.LASF10
+ 108 0077 CE010000 		.4byte	.LASF10
  109 007b 03       		.byte	0x3
  110 007c 41       		.byte	0x41
  111 007d 4F000000 		.4byte	0x4f
  112 0081 03       		.uleb128 0x3
-ARM GAS  /tmp/ccQFRaDT.s 			page 3
+ARM GAS  /tmp/ccInGtPI.s 			page 3
 
 
  113 0082 01       		.byte	0x1
  114 0083 02       		.byte	0x2
- 115 0084 46010000 		.4byte	.LASF11
+ 115 0084 91010000 		.4byte	.LASF11
  116 0088 03       		.uleb128 0x3
  117 0089 04       		.byte	0x4
  118 008a 07       		.byte	0x7
- 119 008b 8B010000 		.4byte	.LASF12
+ 119 008b D6010000 		.4byte	.LASF12
  120 008f 03       		.uleb128 0x3
  121 0090 01       		.byte	0x1
  122 0091 08       		.byte	0x8
- 123 0092 38010000 		.4byte	.LASF13
+ 123 0092 83010000 		.4byte	.LASF13
  124 0096 05       		.uleb128 0x5
- 125 0097 6F010000 		.4byte	.LASF17
+ 125 0097 BA010000 		.4byte	.LASF17
  126 009b 01       		.byte	0x1
  127 009c 2E       		.byte	0x2e
  128 009d 00000000 		.4byte	.LFB118
@@ -141,7 +141,7 @@ ARM GAS  /tmp/ccQFRaDT.s 			page 1
  130 00a5 01       		.uleb128 0x1
  131 00a6 9C       		.byte	0x9c
  132 00a7 06       		.uleb128 0x6
- 133 00a8 4C010000 		.4byte	.LASF18
+ 133 00a8 97010000 		.4byte	.LASF18
  134 00ac 04       		.byte	0x4
  135 00ad 9806     		.2byte	0x698
  136 00af B3000000 		.4byte	0xb3
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccQFRaDT.s 			page 1
  167 0019 0B       		.uleb128 0xb
  168 001a 03       		.uleb128 0x3
  169 001b 08       		.uleb128 0x8
-ARM GAS  /tmp/ccQFRaDT.s 			page 4
+ARM GAS  /tmp/ccInGtPI.s 			page 4
 
 
  170 001c 00       		.byte	0
@@ -238,7 +238,7 @@ ARM GAS  /tmp/ccQFRaDT.s 			page 1
  224 0053 3A       		.uleb128 0x3a
  225 0054 0B       		.uleb128 0xb
  226 0055 3B       		.uleb128 0x3b
-ARM GAS  /tmp/ccQFRaDT.s 			page 5
+ARM GAS  /tmp/ccInGtPI.s 			page 5
 
 
  227 0056 05       		.uleb128 0x5
@@ -298,7 +298,7 @@ ARM GAS  /tmp/ccQFRaDT.s 			page 1
  269      6D622D69 
  269      6E746572 
  269      776F726B 
-ARM GAS  /tmp/ccQFRaDT.s 			page 6
+ARM GAS  /tmp/ccInGtPI.s 			page 6
 
 
  269      202D6D74 
@@ -312,99 +312,100 @@ ARM GAS  /tmp/ccQFRaDT.s 			page 1
  271      6E73202D 
  271      666E6F2D 
  271      636F6D6D 
- 272              	.LASF0:
- 273 00be 756E7369 		.ascii	"unsigned int\000"
- 273      676E6564 
- 273      20696E74 
- 273      00
- 274              	.LASF15:
- 275 00cb 2E2E2F2E 		.ascii	"../../os/ports/GCC/ARMCMx/chcore.c\000"
- 275      2E2F6F73 
- 275      2F706F72 
- 275      74732F47 
- 275      43432F41 
- 276              	.LASF6:
- 277 00ee 6C6F6E67 		.ascii	"long unsigned int\000"
- 277      20756E73 
- 277      69676E65 
- 277      6420696E 
- 277      7400
- 278              	.LASF8:
- 279 0100 6C6F6E67 		.ascii	"long long unsigned int\000"
- 279      206C6F6E 
- 279      6720756E 
- 279      7369676E 
- 279      65642069 
- 280              	.LASF4:
- 281 0117 73686F72 		.ascii	"short unsigned int\000"
- 281      7420756E 
- 281      7369676E 
- 281      65642069 
- 281      6E7400
- 282              	.LASF2:
- 283 012a 756E7369 		.ascii	"unsigned char\000"
- 283      676E6564 
- 283      20636861 
- 283      7200
- 284              	.LASF13:
- 285 0138 63686172 		.ascii	"char\000"
- 285      00
- 286              	.LASF5:
- 287 013d 6C6F6E67 		.ascii	"long int\000"
- 287      20696E74 
- 287      00
- 288              	.LASF11:
- 289 0146 5F426F6F 		.ascii	"_Bool\000"
- 289      6C00
- 290              	.LASF18:
- 291 014c 49544D5F 		.ascii	"ITM_RxBuffer\000"
-ARM GAS  /tmp/ccQFRaDT.s 			page 7
+ 272              	.LASF15:
+ 273 00be 2E2E2F2E 		.ascii	"../../os/ports/GCC/ARMCMx/chcore.c\000"
+ 273      2E2F6F73 
+ 273      2F706F72 
+ 273      74732F47 
+ 273      43432F41 
+ 274              	.LASF0:
+ 275 00e1 756E7369 		.ascii	"unsigned int\000"
+ 275      676E6564 
+ 275      20696E74 
+ 275      00
+ 276              	.LASF16:
+ 277 00ee 2F686F6D 		.ascii	"/home/autoscatto/prototipi/git/tiva-chibios2_6/demo"
+ 277      652F6175 
+ 277      746F7363 
+ 277      6174746F 
+ 277      2F70726F 
+ 278 0121 732F5254 		.ascii	"s/RT-TM4C1294-LAUNCHPAD\000"
+ 278      2D544D34 
+ 278      43313239 
+ 278      342D4C41 
+ 278      554E4348 
+ 279              	.LASF6:
+ 280 0139 6C6F6E67 		.ascii	"long unsigned int\000"
+ 280      20756E73 
+ 280      69676E65 
+ 280      6420696E 
+ 280      7400
+ 281              	.LASF8:
+ 282 014b 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 282      206C6F6E 
+ 282      6720756E 
+ 282      7369676E 
+ 282      65642069 
+ 283              	.LASF4:
+ 284 0162 73686F72 		.ascii	"short unsigned int\000"
+ 284      7420756E 
+ 284      7369676E 
+ 284      65642069 
+ 284      6E7400
+ 285              	.LASF2:
+ 286 0175 756E7369 		.ascii	"unsigned char\000"
+ 286      676E6564 
+ 286      20636861 
+ 286      7200
+ 287              	.LASF13:
+ARM GAS  /tmp/ccInGtPI.s 			page 7
 
 
- 291      52784275 
- 291      66666572 
- 291      00
- 292              	.LASF1:
- 293 0159 7369676E 		.ascii	"signed char\000"
- 293      65642063 
- 293      68617200 
- 294              	.LASF9:
- 295 0165 5F5F696E 		.ascii	"__int32_t\000"
- 295      7433325F 
- 295      7400
- 296              	.LASF17:
- 297 016f 706F7274 		.ascii	"port_halt\000"
- 297      5F68616C 
- 297      7400
- 298              	.LASF3:
- 299 0179 73686F72 		.ascii	"short int\000"
- 299      7420696E 
- 299      7400
- 300              	.LASF10:
- 301 0183 696E7433 		.ascii	"int32_t\000"
- 301      325F7400 
- 302              	.LASF12:
- 303 018b 73697A65 		.ascii	"sizetype\000"
- 303      74797065 
- 303      00
- 304              	.LASF16:
- 305 0194 2F706F6F 		.ascii	"/pool/prototipi/git/tiva-chibios2_6/demos/RT-TM4C12"
- 305      6C2F7072 
- 305      6F746F74 
- 305      6970692F 
- 305      6769742F 
- 306 01c7 39342D4C 		.ascii	"94-LAUNCHPAD\000"
- 306      41554E43 
- 306      48504144 
+ 288 0183 63686172 		.ascii	"char\000"
+ 288      00
+ 289              	.LASF5:
+ 290 0188 6C6F6E67 		.ascii	"long int\000"
+ 290      20696E74 
+ 290      00
+ 291              	.LASF11:
+ 292 0191 5F426F6F 		.ascii	"_Bool\000"
+ 292      6C00
+ 293              	.LASF18:
+ 294 0197 49544D5F 		.ascii	"ITM_RxBuffer\000"
+ 294      52784275 
+ 294      66666572 
+ 294      00
+ 295              	.LASF1:
+ 296 01a4 7369676E 		.ascii	"signed char\000"
+ 296      65642063 
+ 296      68617200 
+ 297              	.LASF9:
+ 298 01b0 5F5F696E 		.ascii	"__int32_t\000"
+ 298      7433325F 
+ 298      7400
+ 299              	.LASF17:
+ 300 01ba 706F7274 		.ascii	"port_halt\000"
+ 300      5F68616C 
+ 300      7400
+ 301              	.LASF3:
+ 302 01c4 73686F72 		.ascii	"short int\000"
+ 302      7420696E 
+ 302      7400
+ 303              	.LASF10:
+ 304 01ce 696E7433 		.ascii	"int32_t\000"
+ 304      325F7400 
+ 305              	.LASF12:
+ 306 01d6 73697A65 		.ascii	"sizetype\000"
+ 306      74797065 
  306      00
  307              		.ident	"GCC: (4.8.3-9+11) 4.8.3 20140820 (release)"
-ARM GAS  /tmp/ccQFRaDT.s 			page 8
+ARM GAS  /tmp/ccInGtPI.s 			page 8
 
 
 DEFINED SYMBOLS
                             *ABS*:0000000000000000 chcore.c
-     /tmp/ccQFRaDT.s:19     .text.port_halt:0000000000000000 $t
-     /tmp/ccQFRaDT.s:25     .text.port_halt:0000000000000000 port_halt
+     /tmp/ccInGtPI.s:19     .text.port_halt:0000000000000000 $t
+     /tmp/ccInGtPI.s:25     .text.port_halt:0000000000000000 port_halt
                      .debug_frame:0000000000000010 $d
 
 NO UNDEFINED SYMBOLS

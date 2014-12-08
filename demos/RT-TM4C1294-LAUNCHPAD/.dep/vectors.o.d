@@ -1,39 +1,17 @@
-build/obj/vectors.o: ../../os/ports/GCC/ARMCMx/TM4C129x/vectors.c \
- ../../os/kernel/include/ch.h chconf.h \
- ../../os/ports/GCC/ARMCMx/chtypes.h \
- /usr/lib/gcc/arm-none-eabi/4.8/include/stddef.h \
+build/obj/vectors.o: ../../os/ports/GCC/ARMCMx/vectors.c \
+ /usr/lib/gcc/arm-none-eabi/4.8/include/stdbool.h \
  /usr/lib/gcc/arm-none-eabi/4.8/include/stdint.h \
  /usr/include/newlib/stdint.h \
  /usr/include/newlib/machine/_default_types.h \
  /usr/include/newlib/sys/features.h \
- /usr/lib/gcc/arm-none-eabi/4.8/include/stdbool.h \
- ../../os/kernel/include/chlists.h ../../os/ports/GCC/ARMCMx/chcore.h \
  ../../os/ports/GCC/ARMCMx/TM4C129x/cmparams.h ../../boards/TIVA/board.h \
  ../../os/ports/GCC/ARMCMx/TM4C129x/tm4c129x.h \
  ../../os/ports/common/ARMCMx/CMSIS/include/core_cm4.h \
  ../../os/ports/common/ARMCMx/CMSIS/include/core_cmInstr.h \
  ../../os/ports/common/ARMCMx/CMSIS/include/core_cmFunc.h \
- ../../os/ports/common/ARMCMx/CMSIS/include/core_cm4_simd.h \
- ../../os/ports/GCC/ARMCMx/chcore_v7m.h \
- ../../os/ports/common/ARMCMx/nvic.h ../../os/kernel/include/chsys.h \
- ../../os/kernel/include/chvt.h ../../os/kernel/include/chschd.h \
- ../../os/kernel/include/chsem.h ../../os/kernel/include/chbsem.h \
- ../../os/kernel/include/chmtx.h ../../os/kernel/include/chcond.h \
- ../../os/kernel/include/chevents.h ../../os/kernel/include/chmsg.h \
- ../../os/kernel/include/chmboxes.h ../../os/kernel/include/chmemcore.h \
- ../../os/kernel/include/chheap.h ../../os/kernel/include/chmempools.h \
- ../../os/kernel/include/chthreads.h ../../os/kernel/include/chdynamic.h \
- ../../os/kernel/include/chregistry.h ../../os/kernel/include/chinline.h \
- ../../os/kernel/include/chqueues.h ../../os/kernel/include/chstreams.h \
- ../../os/kernel/include/chfiles.h ../../os/kernel/include/chdebug.h
+ ../../os/ports/common/ARMCMx/CMSIS/include/core_cm4_simd.h
 
-../../os/kernel/include/ch.h:
-
-chconf.h:
-
-../../os/ports/GCC/ARMCMx/chtypes.h:
-
-/usr/lib/gcc/arm-none-eabi/4.8/include/stddef.h:
+/usr/lib/gcc/arm-none-eabi/4.8/include/stdbool.h:
 
 /usr/lib/gcc/arm-none-eabi/4.8/include/stdint.h:
 
@@ -42,12 +20,6 @@ chconf.h:
 /usr/include/newlib/machine/_default_types.h:
 
 /usr/include/newlib/sys/features.h:
-
-/usr/lib/gcc/arm-none-eabi/4.8/include/stdbool.h:
-
-../../os/kernel/include/chlists.h:
-
-../../os/ports/GCC/ARMCMx/chcore.h:
 
 ../../os/ports/GCC/ARMCMx/TM4C129x/cmparams.h:
 
@@ -62,49 +34,3 @@ chconf.h:
 ../../os/ports/common/ARMCMx/CMSIS/include/core_cmFunc.h:
 
 ../../os/ports/common/ARMCMx/CMSIS/include/core_cm4_simd.h:
-
-../../os/ports/GCC/ARMCMx/chcore_v7m.h:
-
-../../os/ports/common/ARMCMx/nvic.h:
-
-../../os/kernel/include/chsys.h:
-
-../../os/kernel/include/chvt.h:
-
-../../os/kernel/include/chschd.h:
-
-../../os/kernel/include/chsem.h:
-
-../../os/kernel/include/chbsem.h:
-
-../../os/kernel/include/chmtx.h:
-
-../../os/kernel/include/chcond.h:
-
-../../os/kernel/include/chevents.h:
-
-../../os/kernel/include/chmsg.h:
-
-../../os/kernel/include/chmboxes.h:
-
-../../os/kernel/include/chmemcore.h:
-
-../../os/kernel/include/chheap.h:
-
-../../os/kernel/include/chmempools.h:
-
-../../os/kernel/include/chthreads.h:
-
-../../os/kernel/include/chdynamic.h:
-
-../../os/kernel/include/chregistry.h:
-
-../../os/kernel/include/chinline.h:
-
-../../os/kernel/include/chqueues.h:
-
-../../os/kernel/include/chstreams.h:
-
-../../os/kernel/include/chfiles.h:
-
-../../os/kernel/include/chdebug.h:
